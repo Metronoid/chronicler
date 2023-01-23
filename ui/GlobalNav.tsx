@@ -1,7 +1,6 @@
 'use client';
 
 import { routes, type Item } from '#/lib/routes';
-import { NextLogo } from '#/ui/NextLogo';
 import Link from 'next/link';
 import { useSelectedLayoutSegment } from 'next/navigation';
 import { MenuAlt2Icon, XIcon } from '@heroicons/react/solid';
@@ -20,10 +19,6 @@ export function GlobalNav() {
           className="group flex w-full items-center gap-x-2.5"
           onClick={close}
         >
-          {/* <div className="h-7 w-7 rounded-full border border-white/30 group-hover:border-white/50">
-            <NextLogo />
-          </div> */}
-
           <h3 className="font-semibold tracking-wide text-gray-400 group-hover:text-gray-50">
             Chronicler
           </h3>
