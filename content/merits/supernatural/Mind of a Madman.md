@@ -1,0 +1,6 @@
+# Mind of a Madman (••) 
+**Prerequisite**: Empathy ••• 
+
+**Effect**: Your character gets deep under the skin of problems. If she’s investigating a crime or other phenomenon, she can put herself in the mind of the culprit. This often helps with the case, however, it takes her to a dark place internally. 
+
+Once she’s made the choice to sink into the culprit’s mindset (which usually involves intense meditation or perusal of the culprit’s crimes), she gains 8-again on all rolls to investigate, pursue, and stop the culprit. But once per night, while she sleeps, she dreams about the culprit’s crimes and theoretical future crimes. This is intensely traumatic; it drives her further on the hunt. If she spends the day without pursuing the culprit, make a roll to resist a breaking point as if she’d committed the crime herself. She can resist the dreams and the degeneration rolls by avoiding sleep, but she’s subject to normal deprivation effects. Additionally, until the culprit’s captured, any of her own rolls to resist degeneration from things she’s done suffer a -1 penalty.

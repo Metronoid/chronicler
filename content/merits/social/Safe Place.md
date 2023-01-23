@@ -1,0 +1,28 @@
+# Safe Place (• to •••••) 
+**Prerequisites**: Resources • 
+
+**Effect**: This Merit represents access to a site where the hunter can rest and recuperate. The Safe Place also acts as a place where the hunter may stash their weapons, relics, and trophies and train for the hunt without fear that someone’s peeking in through their windows to see what they’re up to. The hunter who is attacked in their Safe Place cannot be surprised even if their Home Security Feature has been disabled. 
+
+Unlike most Merits, multiple characters can contribute dots to a single Safe Place, combining their dots into something greater. A Safe Place gives an Initiative bonus equal to the Merit dots. This only applies to a character with dots invested in the Safe Place. 
+
+Regardless of dots purchased, a Safe Place comes with one Feature per dot at purchase. Features are building modifications used to accommodate a hunter’s needs. Each player who purchases a dot may select one Feature at purchase per dot invested. (See Special, below.) They may also propose a new Feature to the Storyteller to meet their needs. Unless otherwise noted, any given Feature may not be installed more than once. 
+
+**Anathema**: This Feature is a sigil, ward, or other physical enhancement that repels a specific type of monster as defined by a Dread Power the creature possesses. When this monster attempts to infiltrate the Safe Place, it must make a Wits + Resolve roll with a penalty equal to dots purchased in the Merit. On a successful roll, the monster may enter, but suffers –3 on its next attempt to act against the hunters or the Safe Place. On a failed roll, the monster suffers from the Immobilized or Stunned Tilt and may not attempt entry until the Tilt ends or the end of the scene, whichever comes first; the monster can break free from being Immobilized with a successful Resolve + Composure roll.. The hunters are free to engage the monster however they see fit. 
+
+**Arsenal**: The Arsenal offers hunters additional storage for munitions and provides facilities for repairing and modifying equipment. All rolls involving cleaning, fixing, or improvising equipment enjoy a +2 bonus when the hunter is present. 
+
+**Concealed**: Safe Places that are Concealed are nearly impossible to find on a digital or physical map. When installing this Feature, the hunter pulls in some favors, camouflages the exterior, and erases the address from directories and physical records to obscure its location. Having a Concealed Safe Place doesn’t mean no one can find it, but it does make it a lot harder. Characters attempting to track down the Safe Place’s location suffer a –2 to all relevant rolls. 
+
+**Escape Hatch**: This Feature provides the Safe Place with an emergency exit. Trapped or fleeing occupants may quickly and covertly escape the premises whenever needed. The location of an Escape Hatch should be clearly stated after purchasing this Feature to avoid confusion. Suggested locations include a garage, attic, basement, etc. Provided the Merits 95 characters reach the Escape Hatch in time with a successful Dexterity + Athletics or Survival roll, they may leave the Safe House without suffering damage caused by environmental hazards (collapsing floors, fire, etc.). 
+
+**Infirmary**: With this Feature, a Safe Place is stocked with essential medical supplies and functions as a field hospital. Surgical procedures may be performed here without penalty or risk of infection. Medicine rolls receive a +2 bonus, provided the hunter has at least one dot in Medicine. For the purposes of healing and recovering from injury, the Infirmary may be treated as any other hospital provided at least one person with medical training can supervise a patient’s recovery. 
+
+**Home Security**: A well-protected Safe Place has basic defenses that may include sophisticated home security systems, reinforced steel doors and hardened locks, or homemade traps and tripwires around the perimeter. This Feature’s strength is tied to dots purchased and reflects the Safe House’s defenses; intruders suffer a penalty on attempted break-ins conducted through supernatural or non-supernatural means equal to dots purchased in the Merit. Storytellers should note the Home Security Feature is treated as a defense system tied to the Safe House. Depending upon the nature of the system, Home Security may be affected by electrical outages, storms, fire, etc. In the event of a permanent loss, this Feature may be repurchased. 
+
+**Special**: The Safe Place and its Features are not immune from harm and may be damaged following an attack or through a monster’s use of Dread Powers. When the Safe Place is lost, refer to the Sanctity of Merits rule. If your character’s well-stocked cabin in the woods burns down, for example, you may repurchase the Safe Place Merit to rebuild it or reallocate your dots to a different Merit. 
+
+Additional Features may be purchased at the cost of two Experiences each after character creation. Hunters may only install one new Feature at a time; doing so takes at least one chapter and may have more requirements at the Storyteller’s discretion. An Arsenal might require a separate Resource expenditure, for instance. 
+
+If an additional Feature you installed is irreparably damaged, the player(s) who originally purchased it regain two Experiences. If the primary Feature is destroyed, you may purchase a new Feature but you don’t gain two Experiences for the loss. 
+
+There is no penalty for remodeling a Safe Place; new Features do not grant a bonus until they are fully installed. A second, discrete purchase of the Safe Place Merit reflects a different place, and may also be upgraded according to the prior rules.

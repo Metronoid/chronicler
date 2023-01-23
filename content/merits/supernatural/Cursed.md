@@ -1,0 +1,4 @@
+# Cursed (••) 
+**Effect**: Your character has run afoul of fate. Somewhere, somehow, he’s been cursed. Most importantly, he’s aware of the curse. When taking this Merit, define the limitations of the curse. Usually, it’s expressed in the form of a single statement, such as, “On the eve of your twenty-seventh birthday, you will feast upon your doom.” It’s important to work out the details with the Storyteller. The curse must take effect within the scope of the planned chronicle. 
+
+While he knows how he’ll die, this is a liberating experience. He’s confident of the method of his death, so nothing else fazes him. Gain a +2 on any Resolve + Composure roll to face fear or self-doubt. Any time he takes lethal damage in his last three health boxes, take an additional Beat.

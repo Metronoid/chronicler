@@ -1,0 +1,2 @@
+# Sympathetic (••) 
+**Effect**: Your character is very good at letting others get close. This gives him an edge in getting what he wants. At the beginning of a Social maneuvering attempt, you may choose to accept a Condition such as Leveraged, or Swooned in order to immediately eliminate two of the subject’s Doors.

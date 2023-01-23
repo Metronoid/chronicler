@@ -1,0 +1,4 @@
+# Gut Feeling (••) 
+**Prerequisites**: Occult •• 
+
+**Effect**: Deep down, your character knows when something’s out of place. They might not suspect the supernatural is to blame, but their gut tells you when something’s otherworldly or unnatural. After reviewing testimony, photographs, or other forms of evidence, you can determine the presence of the supernatural and trace it back to it source. Receive +2 to Occult-based rolls during an investigation. Drawback: Hunters who peer deep into the shadows can’t look away. During an occult-based investigation, the hunter suffers from the Obsessed Condition until the case is solved.

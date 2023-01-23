@@ -1,0 +1,6 @@
+# Telekinesis (• to •••••) 
+**Effect**: Your character has a psychic ability to manipulate the physical world with her mind. This means lifting, pushing, and pulling objects. Fine manipulation is beyond the scope of Telekinesis. By spending a Willpower point, she can activate Telekinesis for the scene. Her dots in this Merit determine her mind’s effective Strength for the purpose of lifting and otherwise influencing her environment. 
+
+A Telekinetic can use her abilities to cause harm by lashing out at threats. Each such “attack” costs a point of Willpower. The dice pool to attack is Telekinesis + Occult, penalized by the opponent’s Stamina. The attack causes bashing damage. Alternatively, it can be used to grapple, with the Merit dots representing the Strength score of the psychic. Any overpowering maneuvers require additional Willpower points. 
+
+**Drawback**: Any time your character suffers injury or intense stimuli, the Storyteller may call for a Resolve + Composure roll to resist activating Telekinesis at an inopportune time. If the Storyteller calls for this roll and it fails, the character activates Telekinesis in a quick, impressive display of the power. That use of Telekinesis is free. The player can choose to automatically fail the Resolve + Composure roll and take a Beat.

@@ -1,0 +1,6 @@
+# Séance Devotee (• to •••••) 
+**Prerequisites**: Occult •• 
+
+**Effect**: Your character knows how to conduct a séance. You understand that sometimes you need willing participants to contact the other side; believers you can rely on to show up at the last minute who’ll free up your fellow hunters during an investigation. Each dot you purchase in this Merit reflects one person who will drop everything to help you perform a séance. Unlike other Merits, you do not have to maintain a close relationship with or reward your participants for their service. Just being there, close to the spirits, is thanks enough for them — provided they return home safe. 
+
+**Drawback**: A Séance Devotee will be on call and at the character’s disposal unless they suffer from a mind-damaging Tilt (such as Insensate or Traumatized) during the night of the séance or Condition that occurs as a result of the contacted spirit attaching itself to the participant. When they get hurt, they are no longer at the character’s beck and call — and the hunter may have to rescue them.

@@ -1,0 +1,2 @@
+# Takes One to Know One (•) 
+**Effect**: Normally, when Uncovering a Clue, your character suffers a -2 penalty if the crime aligns with his Vice. However, it takes a criminal to know a criminal, and your character has a deep-seated understanding of his particular weakness. Instead, take a +2 and the 9-again quality on any investigation rolls when the crime aligns with your character’s particular Vice. The successful investigation is considered fulfilling his Vice.

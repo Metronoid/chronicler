@@ -1,0 +1,2 @@
+# Biokinesis (• to •••••) 
+**Effect**: Your character has the ability to psychically alter his biological makeup. By spending a Willpower point and concentrating for a full minute, he can shift his Physical Attributes, moving dots from one to another. He can shift one dot in an Attribute per dot in this Merit. This shift lasts for one hour. This can shift an Attribute no higher than five dots. Also, the character heals quickly. Halve all healing times.

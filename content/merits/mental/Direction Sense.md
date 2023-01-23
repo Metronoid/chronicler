@@ -1,0 +1,2 @@
+# Direction Sense (•)
+**Effect**: Your character has an innate sense of direction and is always aware of their location. They always know which direction they’re facing, and never suffer penalties to navigate or find their way out — even when trapped in a haunted house or labyrinthine cave. Provided your character is conscious, they can accurately estimate how far they’ve traveled and in roughly what direction, regardless of the clues they have at their disposal.

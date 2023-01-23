@@ -1,0 +1,4 @@
+# Encyclopedic Knowledge (••)
+**Effect**: Choose a Skill. Due to an immersion in academia, pop culture, or a hobby obsession, your character has collected limitless factoids about the topic, even if she has no dots in the Skill. 
+
+You can make an Intelligence + Wits roll at any time your character is dealing with her area of interest. On a successful roll, the Storyteller must give a relevant fact or detail about the issue at hand. Your character knows this fact, but you must explain within the scope of your character’s background why she knows it. For example, for Encyclopedic Knowledge: Medicine: “Do you remember that time on that show, when the doctor said it doesn’t manifest before puberty?”

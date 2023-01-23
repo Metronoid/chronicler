@@ -1,0 +1,4 @@
+# Holistic Awareness (•)
+**Prerequisites**: Survival ••• or Medicine • 
+
+**Effect**: Your character is skilled at non-traditional healing methods. While life-threatening wounds are beyond their abilities, they can provide simple relief and basic medical care with natural means. They know what herbs can stem an infection, and what minerals will stave off a minor sickness. Unless their patient suffers wound penalties from lethal or aggravated wounds, they do not need traditional medical equipment to stabilize and treat injuries. With access to woodlands, a greenhouse, or other source of diverse flora, a Wits + Survival roll allows your character to gather all necessary supplies.

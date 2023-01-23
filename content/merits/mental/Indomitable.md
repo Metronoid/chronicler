@@ -1,0 +1,4 @@
+# Indomitable (•••) 
+**Prerequisites**: Resolve •••, Occult •• 
+
+**Effect**: Your character possesses an iron will and are firmly grounded in the real world. The powers of the Merits 89 supernatural do not shake their resolve, and they are resistant to a monster’s attempts to scare or manipulate them. They’ve learned how to stand up to a vampire’s mind control, how to thwart a warlock’s charms, andf how to ignore a ghost’s scares. Any time a supernatural creature uses a Dread Power to influence your character’s thoughts or emotions, add two dice to your pool to contest their action. If the roll is resisted, the Storyteller subtracts two dice from the monster’s pool. This Merit only applies to a monster’s Dread Powers and does not affect non-supernatural forms of manipulation.
