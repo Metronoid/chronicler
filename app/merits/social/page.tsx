@@ -2,26 +2,11 @@ import { serialize } from 'next-mdx-remote/serialize';
 import { MDXRemoteSerializeResult } from 'next-mdx-remote';
 import glob from 'fast-glob';
 import { promises as fs } from "fs";
-import { MdxContent } from './mdx-content';
-
-async function getMerits() {
-  const merits: MDXRemoteSerializeResult[] = [];
-  const meritFiles = glob.sync(`content/merits/social/*.(mdx|md)`, {onlyFiles: true});
-  for (const filepath of meritFiles) {
-    const raw = await fs.readFile(filepath, "utf-8");
-    const serialized = await serialize(raw, {
-      parseFrontmatter: true,
-      mdxOptions: {
-        format: 'mdx'
-      }
-    });
-    merits.push(serialized)
-  }
-  return merits;
-}
+import { MdxContent } from '#/ui/MdxContent';
+import { getMDX } from '#/lib/getMdx';
 
 export default async function Page({}: {}) {
-  const merits: MDXRemoteSerializeResult[] = await getMerits()
+  const merits: MDXRemoteSerializeResult[] = await getMDX(`content/merits/social/*.(mdx|md)`)
   return (
     <div className="space-y-4">
       <h1 className="text-xl font-medium text-gray-400/80">

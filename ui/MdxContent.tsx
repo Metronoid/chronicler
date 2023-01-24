@@ -8,11 +8,7 @@ type MdxContentProps = {
 
 export const Card = (props: React.HTMLProps<HTMLDivElement>) => (
     <div
-      style={{
-        background: "#333",
-        borderRadius: "0.25rem",
-        padding: "0.5rem 1rem",
-      }}
+      className='group block space-y-1.5 rounded-lg bg-gray-900 px-5 py-3 hover:bg-gray-800'
       {...props}
     />
   )
@@ -23,8 +19,14 @@ const MdxComponents = {
   h1: (props: React.HTMLProps<HTMLHeadingElement>) => (
     <h1 className="text-xl font-medium" {...props} />
   ),
+  h2: (props: React.HTMLProps<HTMLHeadingElement>) => (
+    <h2 className="text-xl font-medium" {...props} />
+  ),
+  h3: (props: React.HTMLProps<HTMLHeadingElement>) => (
+    <h3 className="text-l font-medium" {...props} />
+  ),
   /** Card component */
-  Card
+  Card: Card,
 };
 
 export function MdxContent({ source }: MdxContentProps) {

@@ -6,7 +6,7 @@
 • What is your character’s attention most focused on right now? \
 • Is your character going to attack?  \
 • What emotion is your character trying most to hide? \
-• Is your character supernatural or otherwise not human? \
+• Is your character supernatural or otherwise not human?
 
 Determine how your character perceives auras. Maybe she sees different hues as different emotions. Perhaps she hears whispers in the back of her mind, reflecting subtle truths about her subject. 
 
