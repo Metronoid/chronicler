@@ -5,7 +5,7 @@ import { getMDX } from '#/lib/getMdx';
 export default async function Page({
 }: {
 }) {
-  const mdx: MDXRemoteSerializeResult[] = await getMDX(`content/systems/dice/anchors/*.(mdx|md)`)
+  const mdx: MDXRemoteSerializeResult[] = await getMDX(`content/systems/dice/Anchors/*.(mdx|md)`)
   return (
     <div className="space-y-4">
       {mdx.length > 0 && <MdxContent source={mdx[0]}/>}
