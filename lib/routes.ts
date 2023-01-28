@@ -39,6 +39,21 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Tools for taking actions and rolling dice',
       },
       {
+        name: 'Integrity',
+        slug: 'systems/integrity',
+        description: 'Tools for handling your integrity',
+      },
+      {
+        name: 'Conditions',
+        slug: 'systems/conditions',
+        description: 'Tools for keeping track of conditions',
+      },
+      {
+        name: 'Experience',
+        slug: 'systems/experience',
+        description: 'Tools for keeping track of experience',
+      },
+      {
         name: 'Social Maneuvering',
         slug: 'systems/social',
         description: 'Tools for maneuvering the social combat',

@@ -33,6 +33,38 @@ If your character knows her subject’s Vice, she can use it to influence the in
 
 Soft Leverage represents offers of services or payments in order to lubricate social interaction. Make the offer. If the recipient agrees, move the impression up once on the chart. Mechanically, this can be represented by certain Merit dots. For example, a bribe may be represented by a Resources 3 offer, or an offer for a particular service may be reflected by Retainer 3. By default, these bribes give the recipient use of the Merit for a designated amount of time.
 
+**Impressions**
+<table class="table-auto">
+  <thead>
+    <tr>
+      <th>Impression</th>
+      <th>Time Per Roll</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Perfect</td>
+      <td>One Turn</td>
+    </tr>
+    <tr>
+      <td>Excellent</td>
+      <td>One Hour</td>
+    </tr>
+    <tr>
+      <td>Good</td>
+      <td>One Day</td>
+    </tr>
+    <tr>
+      <td>Average</td>
+      <td>One Week</td>
+    </tr>
+    <tr>
+      <td>Hostile</td>
+      <td>Cannot roll</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Opening Doors
 
 At each interval, you may make a roll to open Doors

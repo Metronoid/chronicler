@@ -1,6 +1,7 @@
 import { MDXRemoteSerializeResult } from 'next-mdx-remote';
 import { MdxContent } from '#/ui/MdxContent';
 import { getMDX } from '#/lib/getMdx';
+import { DiceRoller } from '#/ui/DiceRoller';
 
 export default async function Page({
 }: {

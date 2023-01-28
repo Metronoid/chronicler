@@ -1,4 +1,4 @@
 # Face in the Crowd (••) 
 **Effect**: Your character has an ordinary and unremarkable appearance. You can blend into a crowd and make it difficult for witnesses to accurately recall you. Your character receives a +3 bonus on any rolls involving tailing or evading in a crowded place; due to your natural anonymity, antagonists trying to find you suffer a –3 penalty to such attempts. 
 
-**Drawback**: This Merit is used in place of the Striking Looks Merit. Face in the Crowd does not make the hunter invisible, just harder to find. Monsters may utilize Dread Powers or other senses to track the hunter down.
+**Drawback**: This Merit is used in place of the Striking Looks Merit. Face in the Crowd does not make the character invisible, just harder to find. Monsters may utilize Dread Powers or other senses to track the character down.

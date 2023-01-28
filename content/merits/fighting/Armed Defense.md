@@ -1,3 +1,8 @@
+---
+title: Armed Defense
+resource: cod
+---
+
 # Armed Defense (• to •••••; Style)
 **Prerequisites**: Dexterity •••, Weaponry ••, Defensive Combat: Weaponry 
 

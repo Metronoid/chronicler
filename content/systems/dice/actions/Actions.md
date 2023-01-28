@@ -229,7 +229,7 @@ Using your existing knowledge, you look for information on a current mystery.
 </Card>
 
 <Card>
-**SHADOWING A MARK** 
+## SHADOWING A MARK
 (Wits + Stealth or Drive vs. Wits + Composure) 
 
 You follow someone, perhaps in the hopes of ambushing them, or of finding out their destination. 
