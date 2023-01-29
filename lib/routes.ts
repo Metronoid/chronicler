@@ -54,9 +54,24 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Tools for keeping track of experience',
       },
       {
+        name: 'Investigation',
+        slug: 'systems/investigation',
+        description: 'Tools for finding clues',
+      },
+      {
         name: 'Social Maneuvering',
         slug: 'systems/social',
         description: 'Tools for maneuvering the social combat',
+      },
+      {
+        name: 'Chases',
+        slug: 'systems/chases',
+        description: 'Tools for resolving chases',
+      },
+      {
+        name: 'Violence',
+        slug: 'systems/violence',
+        description: 'Tools for resolving combat',
       },
     ],
   },
