@@ -20,59 +20,85 @@ ripples throw lives into chaos. Inevitably, something calls the
 characters to fight, even if it’s just for survival. This section
 presents rules for resolving violent conflict.
 
-## Intent
+## Combat Summary Chart
 
-Most people don’t resort to violence unless they want
-something badly, more than they care about other people’s
-safety. The first thing to do when combat begins — before
-worrying about who attacks first or anything like that —
-is to determine what each character wants to get out of
-the fight. Boil it down into a simple sentence that starts
-with the words “I want”: “I want to kill Johnny,” “I want
-the book that Francesca is holding,” or “I want what’s in
-Larry’s wallet.” Even “I want to get away from this guntoting psycho” is a valid intent. A character’s intent has to
-be something he could achieve through an act of violence
-in the current scene — even a gunman on the White House
-lawn couldn’t get away with “I want to be President of the
-United States.”
+**STAGE ONE: INTENT**
+• The players and the Storyteller describe what their characters want out of the fight.
 
-By stating her character’s intent, a player is setting out how
-much her character is willing to hurt, or even kill, someone
-else in order to get it. If a character’s intent has nothing to
-do with hurting people and she ends up killing someone, she
-loses a point of Willpower, in addition to probably suffering
-a breaking point.
+• Decide whether characters can surrender and become Beaten Down.
 
-## Optional Rule: Beaten Down & Surrender
+**STAGE TWO: INITIATIVE**
+• If the attacker springs an ambush or otherwise strikes when the defender isn’t able to counter, the defender rolls Wits + Composure contested by the attacker’s Dexterity + Stealth. If the defender fails, she doesn’t
+act on the first turn of combat and cannot apply Defense against attacks.
 
-Often, violent solutions to problems are grisly, ugly, and
-over fast. Using this optional rule, any character that takes
-more than his Stamina in bashing damage or any amount of
-lethal damage gains the Beaten Down Tilt (see p. 280): he’s
-had the fight knocked out of him. He must spend a point
-of Willpower every time he wants to take a violent action
-until the end of the fight. He can still apply Defense against
-incoming attacks, Dodge, and flee, but it takes a point of
-Willpower to swing or shoot back.
+• Everyone rolls Initiative: the result of a single die roll + Dexterity + Composure. If the character has a
+weapon readied, apply its Initiative Modifier.
 
-However, he can instead surrender, giving his attacker
-what she wants according to her declared intent. If a character
-gives in, he gains a point of Willpower and his player takes a
-Beat, but he takes no more part in the fight. If his opponent
-wants to attack him, she’s got to spend a point of Willpower
-to do so, and probably suffers a breaking point. If everyone
-on one side has surrendered, the fight’s over and the other
-side gets what they want.
+**STAGE THREE: ATTACK**
+• Unarmed Combat: Strength + Brawl - opponent’s Defense
 
-If one side’s intent involves violence for its own sake,
-the other side can’t surrender — not without being killed or
-harmed anyway. If that’s the case, the aggressor’s intended
-victims don’t get the Beaten Down Tilt, and gain no benefits
-from surrendering. When someone wants to kill you, the
-only thing you can do is to try to stop her, whether you run
-like hell or unload a shotgun at her.
+• Melee Combat: Strength + Weaponry - opponent’s Defense
 
-These rules only apply to people who would incur a breaking point for committing (or attempting) “murder.” Creatures
-that don’t have a problem killing people in general can ignore
-surrender without penalty and don’t have the fight beaten
-out of them like normal folks.
+• Ranged Combat: Dexterity + Firearms
+
+• Thrown Weapons: Dexterity + Athletics - opponent’s Defense
+
+A character’s Defense is normally subtracted from any attack dice pools where it applies. If she chooses to
+Dodge, the defender rolls double her Defense as a dice pool against each attack. Each success reduces
+the attacker’s successes by one. If the attacker is reduced to zero successes, the attack does nothing. If the
+attacker has successes remaining, add any weapon modifier to the number of successes to determine how
+many points of Health the target loses. All weapons deal lethal damage.
+
+**STAGE FOUR: DESCRIPTION**
+The Storyteller describes the attack and wounds in narrative terms.
+
+**POSSIBLE MODIFIERS**
+• **Aiming**: +1 per turn to a +3 maximum.
+
+• **All-Out Attack**: +2 with Brawl or Weaponry attack; lose Defense.
+
+• **Armor Piercing**: Ignores amount of target’s armor equal to item’s rating.
+
+• **Autofire Long Burst**: 20 or so bullets, no target limit pending Storyteller approval. A +3 applies to each
+attack roll; -1 per roll for each target after the first.
+
+• **Autofire Medium Burst**: 10 or so bullets at one to three targets, with a +2 to each attack roll; -1 per roll for
+each target after the first.
+
+• **Autofire Short Burst**: Three bullets at a single target with a +1 to the roll.
+
+• **Charge**: Move at twice Speed and attack with Brawl or Weaponry in one action; lose Defense.
+
+• **Concealment**: Barely -1; partially -2; substantially -3; fully, see “Cover.”
+
+• **Cover**: Subtract Durability from damage; if Durability is greater than the weapon modifier, the attack has
+no effect.
+
+• **Dodge**: Double Defense, roll as a dice pool with each success subtracting one from the attacker’s
+successes.
+
+• **Drawing a Weapon**: Requires instant action without a Merit and could negate Defense.
+
+• **Firing from Concealment**: Shooter’s own concealment quality (-1, -2, or -3) reduced by 1 as a penalty to
+fire back (so, no modifier, -1, or -2).
+
+• **Offhand Attack**: -2 to attack roll.
+
+• **Prone Target**: -2 to hit in ranged combat; +2 to hit within close-combat distance.
+
+• **Pulling Blow**: Target gains 1 Defense; the attack can’t deal more than chosen maximum damage.
+
+• **Range**: -2 at medium range, -4 at long range.
+
+• **Shooting into Close Combat**: -2 per combatant avoided in a single shot (not applicable to autofire); -4 if
+grappling.
+
+• **Specified Target**: Torso -1, leg or arm -2, head -3, hand -4, eye -5.
+
+• **Surprised or Immobilized Target**: Defense doesn’t apply.
+
+• **Touching a Target**: Dexterity + Brawl or Dexterity + Weaponry; armor may or may not apply, but Defense
+does apply.
+
+• **Willpower**: Add three dice to a roll or +2 to a Resistance trait (Stamina, Resolve, or Composure) in one
+roll or instance.

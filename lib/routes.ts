@@ -73,6 +73,11 @@ export const routes: { name: string; items: Item[] }[] = [
         slug: 'systems/violence',
         description: 'Tools for resolving combat',
       },
+      {
+        name: 'Tilts',
+        slug: 'systems/tilts',
+        description: 'Look through the available tilts',
+      },
     ],
   },
   // {

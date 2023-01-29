@@ -1,17 +1,16 @@
 import { TabGroup } from '#/ui/TabGroup';
-import lodash from 'lodash';
 import React from 'react';
+import lodash from 'lodash'
 
 export default async function Layout({ children }: { children: React.ReactNode }) {
-  const categories = ['down-and-dirty-combat', 'willpower', 'intent', 'initiative', 'attack', 'defense', 'objects', 'unarmed-combat', 
-  'ranged-combat', 'general-combat-factors', 'weapons-and-armor', 'injury-and-healing'];
+  const categories = ['personal', 'environmental'];
   return (
     <div className="space-y-9">
       <TabGroup
-      path="/systems/violence/"
+      path="/systems/tilts"
       items={[
         {
-          text: 'Violence',
+          text: 'Docs',
         },
         ...categories.map((x) => ({
           text: lodash.startCase(`${x}`),
