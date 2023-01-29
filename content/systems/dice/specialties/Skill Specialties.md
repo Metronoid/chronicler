@@ -2,7 +2,7 @@
 
 While Skills describe a character’s broad knowledge and
 training, Skill Specialties describe particular areas of expertise. A Specialty should be narrower than its Skill, but not
-so narrow that it’s usually irrelevant. Each Skill in Chapter 1
+so narrow that it’s usually irrelevant. Each Skill
 lists a few example Specialties as a guideline. The Storyteller
 is the ultimate arbiter of what constitutes a Specialty.
 
@@ -13,7 +13,7 @@ instance of each Specialty. Specialties can help flesh out thecharacter’s back
 in Rifles is capable with all guns, but particularly good with
 rifles. She’ll default to a rifle when she can, because that’s
 what she does best. Players should come up with backstory
-reasons for Specialties — perhaps the character used to hunt
+reasons for Specialties perhaps the character used to hunt
 with her grandfather as a youth.
 
 Whenever a Specialty applies to a player’s roll with the

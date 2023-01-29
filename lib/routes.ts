@@ -69,14 +69,29 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Tools for resolving chases',
       },
       {
+        name: 'Tilts',
+        slug: 'systems/tilts',
+        description: 'Look through the available tilts',
+      },
+      {
         name: 'Violence',
         slug: 'systems/violence',
         description: 'Tools for resolving combat',
       },
       {
-        name: 'Tilts',
-        slug: 'systems/tilts',
-        description: 'Look through the available tilts',
+        name: 'Sources of Harm',
+        slug: 'systems/sources-of-harm',
+        description: 'Find out the different sources of damage',
+      },
+      {
+        name: 'Vehicles',
+        slug: 'systems/vehicles',
+        description: 'Find out how Vehicles work and which are available',
+      },
+      {
+        name: 'Equipment',
+        slug: 'systems/equipment',
+        description: 'Find out how Equipment works and which are available',
       },
     ],
   },
