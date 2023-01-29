@@ -1,9 +1,9 @@
-# Sap
+# Brass Knuckles
 
 **Damage**: 0\
-**Initiative**: -1\
+**Initiative**: 0\
 **Strength**: 1\
 **Size**: 1\
 **Availability**: •
 
-**Special**: Stun
+**Special**: Uses Brawl to attack
