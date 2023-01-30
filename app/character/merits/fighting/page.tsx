@@ -8,7 +8,7 @@ import { getMDX } from '#/lib/getMdx';
 export default async function Page({
 }: {
 }) {
-  const merits: MDXRemoteSerializeResult[] = await getMDX(`content/merits/fighting/*.(mdx|md)`)
+  const merits: MDXRemoteSerializeResult[] = await getMDX(`content/character/merits/fighting/*.(mdx|md)`)
   return (
     <div className="space-y-4">
       <h1 className="text-xl font-medium text-gray-400/80">

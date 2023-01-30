@@ -1,0 +1,40 @@
+# Empathy
+
+Empathy is a character’s ability to read and understand
+others’ feelings and motivations. It can represent careful
+observation of body language, tone, and other cues, or it
+could be an instinctive sense that the character isn’t even
+entirely aware of. It can help the character detect deception
+or uncertainty, as well as discern her target’s mood. It does
+not inherently mean she is agreeing with or even behaving
+in a friendly fashion towards her target. The Empathy Skill is
+simply the ability to understand and work with the emotions
+that someone is feeling.
+
+**Sample actions**: Determine intentions (Wits + Empathy),
+Sense Deception (Wits + Empathy), Soothe nerves
+(Manipulation + Empathy)
+
+**Sample Specialties**: Buried Feelings, Calming, Emotions,
+Lies, Motives
+
+**Sample contacts**: Shoulder to Cry On, Police Profiler,
+Psych Student
+
+## Levels:
+• **Novice**: A character at this rank in Empathy regularly gets a “vibe” from people, and is often the
+source of stability or advice for her friends.
+
+•• **Professional**: The character might actually be a therapist or social worker. He can always tell when friends
+are keeping secrets or when something is bothering
+them, and excels at figuring out what it is.
+
+••• **Experienced**: With three dots in Empathy, a
+character can gain profound insights into another
+person’s feelings and behavior, even strangers.
+
+•••• **Expert**: This character can draw out even the most
+guarded people. Even tiny details of behavior can
+be the clue to figuring out what someone wants.
+
+••••• **Master**: Human behavior is open book to this character. People often accuse her of being a mind reader.

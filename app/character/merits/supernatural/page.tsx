@@ -6,7 +6,7 @@ import { MdxContent } from '#/ui/MdxContent';
 import { getMDX } from '#/lib/getMdx';
 
 export default async function Page({}: {}) {
-  const merits: MDXRemoteSerializeResult[] = await getMDX(`content/merits/supernatural/*.(mdx|md)`)
+  const merits: MDXRemoteSerializeResult[] = await getMDX(`content/character/merits/supernatural/*.(mdx|md)`)
   return (
     <div className="space-y-4">
       <h1 className="text-xl font-medium text-gray-400/80">
