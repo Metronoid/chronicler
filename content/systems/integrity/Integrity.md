@@ -43,7 +43,7 @@ player (and the character) feels the act was entirely justified.
 Actions take a toll on the psyche, regardless of whether the
 actions were righteous.
 
-## Determining a Braking Point
+## Determining a Breaking Point
 
 The Storyteller should determine whether a given action
 or occurrence counts as a breaking point for a character. If
