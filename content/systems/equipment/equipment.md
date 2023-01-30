@@ -101,4 +101,3 @@ Availability: The cost in Resources dots or level of Social Merit needed to acqu
 **Coverage**: The areas of a character protected by the armor. Unless an attacker targets a specific unarmored location
 (“Specified Targets”), the armor’s protection applies. Wearing a helmet increases the armor’s coverage to include a
 character’s head.
-

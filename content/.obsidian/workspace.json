@@ -4,167 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "81caeb7a48eb5ec5",
+        "id": "b802fb382b17fb86",
         "type": "tabs",
         "children": [
           {
-            "id": "8f057f99050b1885",
+            "id": "5c8f6fcda9e60c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "merits/mental/Library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acb91fa22c44f5b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/mental/Trained Observer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4f854693af34590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/physical/Cover Tracks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91573c2292668b64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/physical/Double Jointed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d7c735c616d0cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/physical/Last Stand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "873d3980ed2dc588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/physical/Last Stand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8aec641cc6263af9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/physical/Relentless.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2583288154f49e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/physical/Robust Health.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eccef579e3df8894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/social/Safe Place.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96d79af1c6d410f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/social/Status.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "699535eec8887c4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/social/Tight-Lipped.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04ef94ad9c02d75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "merits/fighting/Subdual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ae65abb60c7aaae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "systems/dice/Rolling Dice.md",
+                "file": "character/merits/fighting/Armed Defense.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "systems/dice/Rolling Dice.md",
+                "file": "character/merits/fighting/Armed Defense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "systems/dice/Rolling Dice.md",
+                "file": "character/merits/fighting/Armed Defense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systems/dice/Rolling Dice.md"
+                "file": "character/merits/fighting/Armed Defense.md"
               }
             }
           }
@@ -291,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ae65abb60c7aaae",
+  "active": "a9f8a8d7e9d34bbe",
   "lastOpenFiles": [
+    "systems/dice/Rolling Dice.md",
     "systems/social/Social Maneuvering.md",
     "merits/fighting/Subdual.md",
     "merits/social/Touchstone.md",
@@ -301,7 +158,6 @@
     "merits/social/Safe Place.md",
     "merits/social/Séance Devotee.md",
     "merits/social/Retainer.md",
-    "merits/social/Custom Gear Broker.md",
-    "merits/physical/Robust Health.md"
+    "merits/social/Custom Gear Broker.md"
   ]
 }
