@@ -1,6 +1,8 @@
 # Heavy Weapons (• to •••••; Style) 
 **Prerequisites**: Stamina •••, Strength •••, Athletics ••, Weaponry •• 
 
+**Style Tags**: Heavy Melee
+
 **Effect**: Your character is trained with heavy weapons which require strength, wide range, and follow through more than direct speed and accuracy. This Style may be used with a two-handed weapon such as a claymore, chainsaw, pike, or an uprooted street sign. 
 
 **Sure Strike** (•): Your character doesn’t always hit the hardest or the most frequently, but she guarantees a deadly strike when she does hit. You can reflexively remove three dice from any attack dice pool (to a minimum of zero) to add one to your character’s weapon damage rating for the turn. These dice must be removed after calculating any penalties from the environment or the opponent’s Defense. 

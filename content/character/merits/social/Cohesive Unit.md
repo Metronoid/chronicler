@@ -1,0 +1,6 @@
+# Cohesive Unit (•, •• or •••)
+**Prerequisites**: Presence •••+ 
+
+**Effect**: Your character is a natural leader who brings out the best from those he works with. At one dot, team members add +2 dice to teamwork actions dedicated to helping the team. At two dots the team gains access to a pool of dice equal to the character’s Presence each scene, which they can draw upon for actions where they work towards their established purpose. At three dots, all team members can reroll a failed result once per scene. In each case, the benefits last until depleted, or until the team reaches or deviates from its agreed goal or disbands. The character with this Merit can’t access any of the benefits he encourages in others. 
+
+**Drawback**: The character’s natural aura of command can cause confusion in groups where the character is not the recognized leader. If a group benefiting from the character’s Cohesive Unit Merit receives orders from someone they are expected to follow, and those orders don’t conform with the actions the group is already taking, they suffer a –1 penalty for a number of turns equal to the character’s Presence while they work through the conflicting tasks.

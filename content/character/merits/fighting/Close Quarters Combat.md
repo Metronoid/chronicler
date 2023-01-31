@@ -1,6 +1,8 @@
 # Close Quarters Combat (• to •••••; Style) 
 **Prerequisites**: Wits •••, Athletics ••, Brawl ••• 
 
+**Style Tags**: Tactical (Street)
+
 **Effect**: Your character knows that hitting someone in the face is an easy way to break the little bones in his hand. To that end, he’s perfected the art of using the environment to hurt people. 
 
 **Firing Lines** (•): In some situations, your character’s best option is a tactical retreat — especially if he’s inadvertently brought a knife to a gunfight. He can run for cover as a reaction to a ranged attack instead of dropping prone. You give up your action for the turn, but your character can get to any cover that’s within twice his Speed. 

@@ -1,6 +1,8 @@
 # Marksmanship (• to ••••; Style) 
 **Prerequisites**: Composure •••, Resolve •••, Firearms •• 
 
+**Style Tags**: Rifle, Pistol
+
 **Effect**: When prepared and aimed, a gun is an ideal killing machine. Your character has trained to take advantage of the greatest features of a gun, usually a rifle, but this Style can be used with any gun. Because of the discipline and patience required for Marksmanship, your character cannot use her Defense during any turn in which she uses one of these maneuvers. These maneuvers may only be used after aiming for at least one turn. 
 
 **Through the Crosshairs** (•): Your character is a competent sniper, able to sit in position and steel her wits. Usually, the maximum bonus from aiming is three dice. With Through the Crosshairs, it’s equal to her Composure + Firearms. 

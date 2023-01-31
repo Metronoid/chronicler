@@ -1,6 +1,8 @@
 # Light Weapons (• to •••••; Style) 
 **Prerequisites**: Wits ••• or Fighting Finesse, Dexterity •••, Athletics ••, Weaponry •• 
 
+**Style Tags**: Light Melee
+
 **Effect**: Your character is trained with small hand-tohand weapons which favor finesse over raw power. These maneuvers may only be used with one-handed weapons with a damage rating of two or less. 
 
 **Rapidity** (•): Your character moves with swiftness to find just the right spot to strike. You can sacrifice your character’s weapon damage rating to add his Weaponry score to his Initiative for the turn. The weapon becomes a zero damage weapon for the turn. 

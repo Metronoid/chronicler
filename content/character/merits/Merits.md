@@ -60,3 +60,7 @@ various Fighting Style Merits reflect abilities and knowledge
 that your character has, and therefore shouldn’t be cashed
 in or replaced. Then again, if an Ambidextrous character
 loses his left hand....
+
+## Using Style Tags 
+
+On one hand, you can choose to purchase the next level of a Fighting Style as usual, for the cost of a single Merit dot. If a Fighting Style possesses alternate maneuvers, you may add the “standard” or alternate maneuver to your character this way. Yet your character might abandon orthodox advancement. If she chooses this route, you may purchase any maneuver for the price of a one-dot Fighting Merit and add it to her abilities. The catch? The character needs to first possess as many Merit dots in the same Style Tag as the rank (in Fighting Style progression) of the unorthodox or extra maneuver she wishes to learn. This investment can take the form of maneuvers (for one dot each) or Merits with a matching Style Tag (which may have variable Merit dot costs). This restriction also applies to characters who wish to learn more than one alternate maneuver in a single style. Style Tags can’t override prerequisite Attribute and Skill ratings, prerequisite maneuvers (such as exist in many Grappling maneuvers), and other special requirements, noted with each style.

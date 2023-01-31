@@ -1,6 +1,8 @@
 # Street Fighting (• to •••••; Style) 
 **Prerequisites**: Stamina •••, Composure •••, Brawl ••, Streetwise •• 
 
+**Style Tags**: Tactical (Street)
+
 **Effect**: Your character learned to fight on the mean streets. She may have had some degree of formal training, but the methodology came from the real world, in dangerous circumstances. Street Fighting isn’t about form and grace, it’s about staying alive. These maneuvers may only be used unarmed, or with weapons capable of using the Brawl Skill, such as punch daggers, or weapons concealed with the Shiv Merit (above). 
 
 **Duck and Weave** (•): Your character has been beaten all to hell more than a few times. Now she dodges on instinct, not on skill. You can reflexively take a one-die penalty to any actions this turn to use the higher of her Wits or Dexterity to calculate Defense. If you’ve already made a roll without penalty this turn, you cannot use Duck and Weave. Knocking the 

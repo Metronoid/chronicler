@@ -1,6 +1,8 @@
 # Improvised Weaponry (• to •••; Style)
 **Prerequisites**: Wits •••, Weaponry • 
 
+**Style Tags**: Tactical (Street)
+
 **Effect**: Most people don’t walk around armed. While someone pulling a knife or a gun can cool a hostile situation down, it can also cause things to boil over — an argument that wouldn’t be more than harsh words suddenly ends up with three people in the morgue. If your character is on the receiving end of someone pulling a knife, it helps to have something in his hand as well. Your character is good at making do with what he’s got. Sometimes he’s lucky — if your character’s in a bar, he’s got a lot of glass bottles, or maybe a pool cue, to play with. However, he’s got something like a sixth sense, and can find a weapon almost anywhere. 
 
 **Always Armed** (•): Your character can always get his hands on something dangerous, and he has an instinctive understanding of how to put it to good — and deadly — use. At the start of your turn, make a reflexive Wits + Weaponry roll to grab an object suitable for use as a weapon in pretty much any environment. (The player is encouraged to work with the Storyteller to determine an appropriate item — a large, jagged rock in the wilderness, for example, or a heavy glass ashtray with one sharp, broken edge in a dive bar.) Regardless of what he picks up, the weapon has a +0 weapon modifier, -1 initiative penalty, Size 1, Durability 2, and Structure 4. On an exceptional success, increase the weapon modifier and Size by 1, but the initiative penalty increases to -2. Whatever your character grabs doesn’t cause you to suffer the normal -1 penalty for wielding an improvised weapon (see p. 94). 

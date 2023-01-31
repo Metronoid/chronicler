@@ -6,6 +6,8 @@ resource: cod
 # Armed Defense (• to •••••; Style)
 **Prerequisites**: Dexterity •••, Weaponry ••, Defensive Combat: Weaponry 
 
+**Style Tags**: Tactical (Police), Light Melee, Heavy Melee
+
 **Effect**: You’re able to use a weapon to stop people who are trying to kill you. Often deployed by police officers using riot shields or telescoping batons, it’s just as effective while using a chair leg.
 
 **Cover the Angles** (•): Whenever you take a Dodge action, reduce the Defense penalties for multiple attackers by 1. You can apply your full Defense against the first two attacks, suffer a -1 penalty against the third, and so on. 

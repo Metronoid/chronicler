@@ -1,5 +1,9 @@
 # Unarmed Defense (• to •••••; Style) 
-**Prerequisites**: Dexterity •••, Brawl ••, Defensive Combat: Brawl Your character is better at stopping people from hurting them than they are at hurting other people. Maybe they practice a martial art that redirects an opponent’s blows, or are just very good at not being where their opponent wants them to be. 
+**Prerequisites**: Dexterity •••, Brawl ••, Defensive Combat: Brawl 
+
+**Style Tags**: Attitude (Calm), Striking
+
+**Effect**: Your character is better at stopping people from hurting them than they are at hurting other people. Maybe they practice a martial art that redirects an opponent’s blows, or are just very good at not being where their opponent wants them to be. 
 
 **Like a Book** (•): Your character can read his opponents, knowing where they’re likely to strike. When facing an unarmed opponent and not Dodging, increase your character’s Defense by half of his Brawl (round down). 
 

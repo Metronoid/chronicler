@@ -1,0 +1,6 @@
+# Support Network (• to •••••) 
+**Prerequisite**: Allies, Mentor, Retainer, True Friend, or another similar Merit. 
+
+**Effect**: Your character has friends, family, teammates, or any other person or people who provide emotional support in the face of terrifying circumstances. This Merit must be tied to another Social Merit such as Allies, Mentor, Retainer, or True Friend, but can be tied to any Merit representing a person or group that the Storyteller deems fitting. Alternatively, any character with the Empath Merit (see above) can be the anchor point for this Merit. 
+
+Once per chapter, you may prolong an Integrity breaking point by spending a point of Willpower. During the same chapter, your character must have a meaningful interaction with her Support Network, or the breaking point dramatically fails. If she interacts with her Support Network, add her dots in this Merit to the roll to resist the breaking point, and the roll achieves exceptional success on three successes instead of five

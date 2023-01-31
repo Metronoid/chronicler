@@ -1,6 +1,8 @@
 # Firefight (• to •••; Style)
 **Prerequisites**: Composure •••, Dexterity •••, Athletics ••, Firearms •• 
 
+**Style Tags**: Rifle, Pistol
+
 **Effect**: Your character is comfortable with a gun. She’s been trained in stressful situations, and knows how to keep herself from being shot, while still shooting at her opponents. This Style is about moving, strafing, and taking shots when you get them. It’s not a series of precision techniques; it’s for using a gun practically in a real-world situation. 
 
 **Shoot First** (•): In a firefight, the person shot first is usually the loser. Your character has trained herself to fire first in an altercation. If her gun is drawn, add her Firearms score to her Initiative. If she has Quick Draw, she can use Shoot First to draw and fire with increased Initiative in the first turn of combat. 
