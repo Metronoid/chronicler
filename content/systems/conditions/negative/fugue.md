@@ -1,4 +1,5 @@
 # Fugue
+**Sources**: Breaking Point
 
 Something terrible happened, and rather than deal with
 it or let it break you, your mind shuts it out. You are prone to

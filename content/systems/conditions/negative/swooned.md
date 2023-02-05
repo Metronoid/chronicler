@@ -1,4 +1,5 @@
 # Swooned
+**Sources**: Social
 
 Your character has butterflies in his stomach. Note this
 Condition as Swooned (Character). He may have multiple
@@ -11,5 +12,3 @@ character, the impression level is considered one higher
 (maximum of perfect).
 
 **Example Skills**: Persuasion, Subterfuge
-
-**Resolution**: Do something for the object that puts your character in danger; opt to fail a roll to resist a social action by the object.

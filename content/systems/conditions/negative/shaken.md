@@ -1,4 +1,5 @@
 # Shaken
+**Sources**: Failure (Physical)
 
 Something has frightened your character extensively. Any
 time your character is taking an action where that fear might
@@ -7,5 +8,3 @@ the roll), and shed this Condition. This Condition can be
 imposed by a successful breaking point roll.
 
 **Example Skills**: Brawl, Firearms, Intimidation, Weaponry
-
-**Resolution**: Fail a roll, as noted.

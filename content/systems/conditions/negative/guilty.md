@@ -1,4 +1,5 @@
 # Guilty
+**Sources**: Breaking Point
 
 Your character is experiencing deep-seated feelings of guilt
 and remorse. This Condition is commonly applied after a

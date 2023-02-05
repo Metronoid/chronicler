@@ -1,4 +1,5 @@
 # Connected
+**Sources**: Success (Social)
 
 Your character has made inroads with a specified group.
 While she has this Condition, she gets a +2 to all rolls relating to that group. Alternately, she can shed this Condition

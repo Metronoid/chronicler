@@ -1,17 +1,9 @@
 # Anchors
-All Chronicles of Darkness characters have defining personality traits. These traits not only tell a character who she is,
-but also allow her to regain Willpower (for more information on spending and regaining Willpower, see Chapter 2). These
-traits are called Anchors. For a mortal character, these
-Anchors are her Virtue and her Vice.
+All Chronicles of Darkness characters have defining personality traits. These traits not only tell a character who she is, but also allow her to regain Willpower. These traits are called Anchors. For a mortal character, these Anchors are her Virtue and her Vice.
 
 ## Virtue and Vice
-When creating a character, you define her Virtue and
-Vice. These words describe key aspects of her personality.
-Things like Cruel or Generous work, but a physical description, like Clean wouldn’t. Similarly, you don’t want to pick
-a Virtue or Vice that is covered by an Attribute or Skill.
-Athletic wouldn’t really make a good Virtue or Vice (though
-Competitive probably would). Composed wouldn’t work very
-well as an Anchor, as Composure is already an Attribute.
+When creating a character, you define her Virtue and Vice. These words describe key aspects of her personality. Things like Cruel or Generous work, but a physical description, like Clean wouldn’t. Similarly, you don’t want to pick a Virtue or Vice that is covered by an Attribute or Skill.
+Athletic wouldn’t really make a good Virtue or Vice (though Competitive probably would). Composed wouldn’t work very well as an Anchor, as Composure is already an Attribute.
 
 A character’s Virtue or Vice isn’t simply indicative of her
 morality. Having a Virtue like Good isn’t really appropriate,

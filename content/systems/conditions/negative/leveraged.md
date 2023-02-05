@@ -1,4 +1,5 @@
 # Leveraged
+**Sources**: Failure (Social)
 
 Your character has been blackmailed, tricked, convinced,
 or otherwise leveraged into doing what another person
@@ -9,6 +10,3 @@ may shed this Condition if your character does as requested,
 without rolling to resist.
 
 **Example Skills**: Empathy, Persuasion, Subterfuge
-
-**Resolution**: Shed the Condition as noted; turn the tables
-on the person.

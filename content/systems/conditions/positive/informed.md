@@ -1,4 +1,5 @@
 # Informed
+**Sources**: Success (Mental)
 
 Your character has a breadth of research information
 based on the topic she investigated. When you make a roll

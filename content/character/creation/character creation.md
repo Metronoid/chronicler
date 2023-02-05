@@ -2,9 +2,7 @@
 
 The system for creating a character is a simple, step-by-step process to take
 an initial idea for a character, and flesh her out with goals, personality, and the
-game traits that determine what she is capable of. It’s helpful to take a look at the
-character sheet from the back of the book. You can fill out the sheet as you go
-through the steps of creating your character.
+game traits that determine what she is capable of.
 
 ## Step One: Character Concept
 

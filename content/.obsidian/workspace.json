@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "character/merits/Merits.md",
+                "file": "character/anchors/anchors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "character/merits/Merits.md",
+                "file": "character/anchors/anchors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "character/merits/Merits.md",
+                "file": "character/anchors/anchors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "character/merits/Merits.md"
+                "file": "character/anchors/anchors.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "9d2e87c98e3be531",
   "lastOpenFiles": [
-    "character/merits/fighting/Weapon and Shield.md",
-    "character/merits/fighting/Unarmed Defense.md",
-    "character/merits/fighting/Two-Weapon Fighting.md",
-    "character/merits/fighting/Trunk Squeeze.md",
-    "character/merits/fighting/Transfer Maneuver.md",
-    "character/merits/fighting/Thrown Weapons.md",
-    "character/merits/fighting/Systema.md",
-    "character/merits/fighting/Subdual.md",
-    "character/merits/fighting/Strength Performance.md",
-    "character/merits/fighting/Street Fighting.md"
+    "systems/conditions/Conditions.md",
+    "systems/conditions/positive/steadfast.md",
+    "systems/conditions/positive/inspired.md",
+    "systems/conditions/positive/informed.md",
+    "systems/conditions/negative/obsession.md",
+    "systems/conditions/positive/connected.md",
+    "systems/conditions/positive/bonded.md",
+    "systems/conditions/negative/swooned.md",
+    "systems/conditions/negative/spooked.md",
+    "systems/conditions/negative/notoriety.md"
   ]
 }

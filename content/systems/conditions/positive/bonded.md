@@ -1,4 +1,5 @@
 # Bonded
+**Sources**: Success (Animal Ken)
 
 Your character has established an extensive bond with an
 animal. She gains +2 on any rolls to influence or persuade the
@@ -8,5 +9,3 @@ presence. The animal may add your character’s Animal Ken
 to any one die roll.
 
 **Example Skills**: Animal Ken
-
-**Resolution**: The bonded animal dies.

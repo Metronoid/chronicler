@@ -1,4 +1,5 @@
 # Crippled
+**Sources**: Damage (Legs)
 
 Your character has limited or no ability to walk. Her
 Speed trait is effectively 1. She must rely on a wheelchair or
@@ -10,7 +11,3 @@ free use of her hands.
 An injury can cause this Condition temporarily, in which
 case it is resolved when the injury heals and the character
 regains mobility.
-
-**Special**: This Condition may be taken as Persistent.
-
-**Beat**: Danger or severe inhibition due to the disability
