@@ -1,6 +1,7 @@
 "use client"; // This is required!
 
 import { MDXRemote, type MDXRemoteSerializeResult } from "next-mdx-remote";
+import Link from "next/link";
 
 type MdxContentProps = {
   source: MDXRemoteSerializeResult;
@@ -15,7 +16,13 @@ export const Card = (props: React.HTMLProps<HTMLDivElement>) => (
 
 /** Place your custom MDX components here */
 const MdxComponents = {
-  /** h1 colored in yellow */
+  a: (props: React.HTMLProps<HTMLHeadingElement>) => {
+    const href = props.href
+    if(href){
+      return <Link href={href}>{props.children}</Link>
+    }
+    return <div {...props}/>
+  },
   h1: (props: React.HTMLProps<HTMLHeadingElement>) => (
     <h1 className="text-xl font-medium" {...props} />
   ),
