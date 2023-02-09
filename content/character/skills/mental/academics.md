@@ -1,30 +1,11 @@
-# Academics
-Academics represents general higher education and
-knowledge of arts and humanities. It covers topics like history, language, literature, law, and economics. It is a very
-broad Skill that covers general knowledge in all of these
-areas, but Skill Specialties can be used to represent a specific
-focus. The Academics Skill often represents the amount
-of schooling a character has. However, some characters
-are self-taught or have learned a great deal about relevant
-topics without actually setting foot on a college campus.
-Also, some people with advanced degrees pay no attention
-to topics outside their area of expertise, and have a low
-rating in Academics.
-
-**Sample actions**: Recall historical facts (Intelligence +
-Academics), Research (Resolve + Academics), Translation
-(Intelligence + Academics)
+# **Academics**
+Academics covers higher education and knowledge of arts and humanities, such as history, language, literature, law, and economics. It can be specialized with Skill Specialties. The amount of schooling a character has is often reflected in their Academics Skill rating, but self-teaching and outside learning can also play a role. People with advanced degrees may still have a low rating in Academics if they focus only on their area of expertise.
 
 **Sample Specialties**: English Literature, History, Law,
 Linguistics, Research
 
-**Sample contacts**: Rare Book Dealer, Law Professor, Head
-Librarian
-
 ## Levels:
-• **Novice**: Someone with a basic knowledge of history, a high school graduate or college student.
-A character at this level knows how to conduct
-effective research and probably did well in school.
+• **Novice**: A character with basic knowledge of history and good research skills, likely a high school or college graduate.
 
 •• **Professional**: A PhD student, a teacher, or someone who is well-read enough to have a solid grasp
 on a number of academic fields. A character at this level can recall details about many different topics,
