@@ -1,42 +1,30 @@
-# **Character Creation**
-Creating a character is a step-by-step process, it involves developing an initial idea with goals, personality, and traits to determine their capabilities.
+# **Character Creation: A Step-by-Step Guide**
 
-## **Step One: Character Concept**
-Start with a simple, real-world basic idea. Add character's Aspirations for goals/events to provide story hooks and immediate involvement.
+Creating a character involves developing their concept, personality, and abilities through a series of steps.
 
-**Examples:** "bored medical student", "single parent" or "mystery blogger"
+## **Step 1: Character Concept**
+Start with a simple, real-world idea and add [aspirations](/character/aspirations) to provide story hooks. Examples: "med student," "single parent," or "mystery blogger."
 
-## **Step Two: Anchors**
+## **Step 2: [Anchors](/character/anchors)**
+Define character personality with virtue and vice traits. Choose challenging/admirable traits for virtue and comforting/damaging traits for vice.
 
-Define character's personality with Anchors (Virtue and Vice). Choose challenging/admirable traits for Virtue, comforting/damaging for Vice (e.g. Ambition, Honesty, Kindness, Greed). Consider character's behavior and sense of self.
+## **Step 3: [Attributes](/character/attributes)**
+Determine capabilities with mental, physical, and social attributes rated 1-5. Start with 1 dot per attribute and allocate 5, 4, and 3 dots to primary, secondary, and tertiary categories based on character concept.
 
-Learn more about [anchors](/character/anchors)
+## **Step 4: [Skills](/character/skills)**
+Divide skills into mental, physical, and social categories, rated 0-5. Allocate 11 dots to primary, 7 to secondary, and 4 to tertiary categories.
 
-## **Step Three: Select Attributes**
-Define a character's capabilities with Attributes (Mental, Physical, Social) rated 1-5. Start with 1 dot per Attribute, choose primary (5 dots), secondary (4 dots), and tertiary (3 dots) based on your  character concept.
+## **Step 5: Skill Specialties**
+Choose three specialties within a skill to reflect a character's unique focus.
 
-Learn more about [attributes](/character/attributes)
+## **Step 6: [Merits](/character/merits)**
+Add unique traits beyond attributes and skills with seven dots for merits.
 
-## **Step Four: Select Skills**
+## **Step 7: Advantages**
+Calculate the values for advantages such as 
 
-Skills are divided into Mental, Physical, and Social categories, rated 0-5. Allocate 11 dots to primary, 7 to secondary, and 4 to tertiary while considering your character concept.
-
-Learn more about [skills](/character/skills)
-
-## **Step Five: Pick Skill Specialties**
-Skills have specific areas called Specialties. Each character can have three custom Specialties reflecting their unique focus within a Skill.
-
-## **Step Six: Merits**
-Merits are unique traits of a character beyond Attributes and Skills, representing knacks, training, connections, or belongings. Seven dots can be used to choose Merits.
-
-Learn more about [merits](/character/merits)
-
-## **Step Seven: Determine Advantages**
-The final step in character creation is calculating Advantages.
-Use the following rules to determine the values for these traits.
-
-*Willpower* = Resolve + Composure\
-*Integrity* = 7\
-*Size* = 5 (for adult human) unless modified\
-*Speed* = Strength + Dexterity + 5 (meters per turn)\
-*Health* = Size + Stamina
+*Willpower* (Resolve + Composure)\
+*Integrity* (7)\
+*Size* (5 for adult human unless modified)\
+*Speed* (Strength + Dexterity + 5)\
+*Health* (Size + Stamina).
