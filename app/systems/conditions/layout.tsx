@@ -3,14 +3,14 @@ import React from 'react';
 import lodash from 'lodash'
 
 export default async function Layout({ children }: { children: React.ReactNode }) {
-  const categories = ['available'];
+  const categories = ['negative', 'positive'];
   return (
     <div className="space-y-9">
       <TabGroup
       path="/systems/conditions"
       items={[
         {
-          text: 'Docs',
+          text: 'Conditions',
         },
         ...categories.map((x) => ({
           text: lodash.startCase(`${x}`),

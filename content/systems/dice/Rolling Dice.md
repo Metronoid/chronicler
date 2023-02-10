@@ -1,4 +1,4 @@
-# **Rolling Dice**
+# **Rolling Dice: Figure out how much you succeed**
 To determine success in a task, roll a pool of 10-sided dice equal to the relevant Attribute + Skill. Add an extra die if there's a Specialty that applies. A roll of 8, 9, or 10 is a success, with each 10 counting as another success if rerolled. Modifiers such as equipment, circumstances, or opposition can range from +3 to -3 and are applied before rolling. If the pool drops to less than 1, roll a single chance die (1 is a dramatic failure, 10 is a success). More successes result in higher damage when attacking.
 
 ## **Roll Outcomes:**

@@ -1,17 +1,15 @@
-# Time
+# **Time**
 
-When you’re playing out stories in the Chronicles of Darkness, time in the story can speed past or slow to a crawl compared to time in the real world. Weeks or months might pass in the space of a few words, while a tense negotiation plays out in real time — or takes even longer. 
+The pace of time in the story can vary greatly compared to real life. A tense negotiation could take hours or weeks, while weeks or months could pass in just a few words.
 
-In addition to years, nights, and hours, the Chronicles of Darkness also uses five units of dramatic time. These build on one another, from shortest to longest. 
+There are five units of dramatic time used in the game, starting with the smallest:
 
-• **Turn** — The smallest increment of time, a turn lasts for about three seconds. A character can perform a single instant action in a turn. Turns normally only matter in combat or other dramatic and stressful situations. 
+• **Turn** (3 sec) - A character can perform a single instant action during a turn, used mainly in combat or stressful situations.
 
-• **Scene** — Much like a scene in a play, a scene in a roleplaying game is the time spent dealing with a single, specific event. The Storyteller frames the scene, describing what’s going on, and it’s up to the players to resolve the event or conflict. A scene might be played out in turns, progress in real time, or skip forward, depending on dramatic necessity. 
+• **Scene** - A scene is a specific event and its resolution. The storyteller sets the scene and players resolve it. The scene can be played in turns or progress in real time.
 
-• **Chapter** — A chapter is the collection of scenes that happen during one game session. From the moment you sit down and start playing to the point where you pack up your dice, you’re playing out a chapter of your story. 
+• **Chapter** - A collection of scenes that occur during one game session.
 
-• **Story** — A story tells an entire tale, following the dramatic arc of a related series of events. It might be comprised of several chapters or be completed in just one. It has an introduction, rising tension, a number of twists, and a climax that brings things to a conclusion. 
+• **Story** - A complete tale with an introduction, rising tension, twists, and a conclusion. Can be made up of multiple chapters or just one.
 
-• **Chronicle** — The big picture; a chronicle is the collection of interlinked stories that involve your characters. They might be linked by a common theme or overarching plotline, or they may only share characters and locations. As your story progresses, the players and Storyteller work together to create an ongoing chronicle.
-
-
+• **Chronicle** - A collection of interconnected stories involving the characters. They can be linked by a common theme or plotline or just shared characters and locations. The storyteller and players work together to create an ongoing chronicle

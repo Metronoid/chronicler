@@ -1,22 +1,5 @@
-# Skill Specialties
+# **Skill Specialties**
 
-While Skills describe a character’s broad knowledge and
-training, Skill Specialties describe particular areas of expertise. A Specialty should be narrower than its Skill, but not
-so narrow that it’s usually irrelevant. Each Skill
-lists a few example Specialties as a guideline. The Storyteller
-is the ultimate arbiter of what constitutes a Specialty.
+Specialties describe a character's specific areas of expertise within their broader Skills. The Storyteller decides what constitutes a Specialty. Each Skill provides example Specialties as a guide. Characters start with three Specialties and can buy more with Experiences. A character can have multiple Specialties for one Skill, but only one of each Specialty. Specialties help flesh out a character's background and identify their preferred problem-solving approach. For example, a character with Firearms 3 and a Rifles Specialty is good with all guns, but excels with rifles.
 
-Characters begin play with three Specialties, and players
-can purchase more with Experiences. A character may have
-any number of Specialties for a given Skill, but only one
-instance of each Specialty. Specialties can help flesh out thecharacter’s background and define her go-to solutions to problems. For example, a character with Firearms 3 and a Specialty
-in Rifles is capable with all guns, but particularly good with
-rifles. She’ll default to a rifle when she can, because that’s
-what she does best. Players should come up with backstory
-reasons for Specialties perhaps the character used to hunt
-with her grandfather as a youth.
-
-Whenever a Specialty applies to a player’s roll with the
-relevant Skill, she adds one die, which stacks with other situational modifiers. Multiple Specialties may apply to a single
-roll with Storyteller approval. If a player goes to great lengths
-to justify a Specialty, it probably shouldn’t apply.
+When a Specialty applies to a Skill roll, the character adds one die, which combines with other situational modifiers. Multiple Specialties can apply to a single roll with Storyteller approval. A well-justified Specialty shouldn't apply.

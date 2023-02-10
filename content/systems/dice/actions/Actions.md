@@ -1,90 +1,21 @@
-# Actions
+# **Actions: Different ways to roll**
+Actions in the game are categorized as instant, reflexive, and contested. Instant actions are quick and take only a few seconds to perform, consuming your turn in combat. Reflexive actions, like resisting supernatural powers, are automatic and can be performed at any time without taking a turn in combat. Contested actions happen when two parties compete over a goal, and each side rolls their dice pool. The character with the most successes wins the contest, and the initiating party's action is consumed. Resisting a contested action is considered a reflexive action.
 
-The majority of actions in the game are instant actions.
-They represent acts that only take a couple of seconds. In
-combat, an instant action takes up your turn.
+## **Extended Actions**
+Extended actions refer to complex tasks that require multiple dice rolls. The dice pool is calculated as Attribute + Skill + Modifiers, with a maximum number of rolls determined by Attribute + Skill + Specialty (if applicable). The Storyteller sets the required number of successes (ranging from 5 to 20) and the interval between rolls (ranging from hours to weeks).
 
-A reflexive action is the sort of thing you don’t even need
-to think about doing. Most rolls to resist supernatural powers
-are reflexive. You can take a reflexive action at any time, and
-it doesn’t take your turn in combat.
+### **Roll Results**
 
-When two people fight over a specific goal, they engage in a
-contested action. You roll your dice pool and the Storyteller (or
-other player) rolls the dice pool for the other party. Whoever
-rolls the most successes is the victor. Note that you count the
+**Dramatic Failure**: In addition to failure effects, the next attempt suffers a 2-die penalty.\
+**Failure**: A setback occurs, and the Storyteller offers a choice of accepting a Condition or abandoning the action. Refusal or inability to agree on a Condition results in loss of all accumulated successes.\
+**Success**: Add the number of successes rolled to the running total, and work with the Storyteller to determine progress.\
+**Exceptional Success**: The player can choose to reduce the number of required successes, reduce the time between rolls, or apply the exceptional success result upon completion.
 
-total number of successes rolled when working out if you scored
-an exceptional success — don’t subtract the other party’s successes from yours. A contested action takes up the action of
-the person initiating the action; resisting it is a reflexive action.
+## **Resistance Roll**
+When the number of successes on a roll is a crucial factor, a resistance roll is used. The dice pool is Attribute + Skill, with a modifier of the opponent's resistance Attribute (Resolve, Stamina, or Composure) or Defense.
 
-## Extended Actions
-
-An extended action is an attempt to complete a complex
-task. You roll your dice pool multiple times. Each roll takes a
-certain amount of time, and represents a step in the process
-— your character either makes significant progress or faces
-a setback. You determine your dice pool for the action as
-normal — Attribute + Skill + Modifiers. Make a note of your
-Attribute + Skill + Specialty (if any); that’s the maximum
-number of times you can roll before the action fails.
-
-When you take an extended action, the Storyteller determines how many successes you require. Most actions require
-between five and twenty successes. Five reflects a reasonable
-action that competent characters can achieve with the right
-tools and knowledge. Ten represents a difficult action that’s
-still realistic for a professional in a field. Twenty represents a
-very difficult action that even a particularly skilled character
-will have trouble pulling off. 
-
-The Storyteller also determines the interval between rolls.
-If an action would take weeks to complete, she might consider
-one roll per week. If it’s likely to take a day’s work, one roll
-per hour makes for a solid timeframe.
-
-### Roll Results
-
-**Dramatic Failure**: In addition to the effects of a failure,
-the first roll on a further attempt suffers a 2-die penalty.
-
-**Failure**: You face a setback. The Storyteller will offer you
-a choice: take a Condition of her choice or abandon the
-action. You can offer a different Condition if you think it
-makes sense. If you refuse or cannot agree on a Condition,
-you lose all accumulated successes.
-
-**Success**: Add the successes scored on the roll to your
-running total. Work with the Storyteller to determine what
-steps your character has taken towards his goal.
-
-**Exceptional Success**: Choose one of: Reduce the number
-of successes required by your character’s Skill dots, reduce the
-time on each following roll by a quarter, or apply the exceptional success result of the action when you complete your goal.
-
-## Resistance
-
-Sometimes, an action is resisted. You roll your Attribute
-+ Skill, but apply a modifier of one of your opponent’s resistance Attributes (Resolve, Stamina, or Composure), or your
-opponent’s Defense. This resistance is over and above any
-other modifiers applied to the dice pool.
-
-If you’re not sure whether to use resistance or a contested
-action, use this guideline: Resistance applies in situations
-where the number of successes on the roll is an important
-factor. If what matters is just whether the roll succeeds or not,
-use a contested action. For example, combat applies Defense
-as a resistance because the number of successes on the roll
-determines how badly the attacker messes up his victim. A supernatural power that puts a victim in your thrall uses a
-contested action, because the number of successes that you
-roll doesn’t matter to the power
-
-## Contested Actions
-
-When two characters are competing, and you only need
-to know who comes out on top, use a contested action. In a
-contested action, each player rolls a pool for their character
-(such as an Attribute + Skill pool), and the character for whom
-the most successes are rolled wins the contest.
+## **Contested Actions**
+Contested actions are used when two characters compete, and it's only important to know who comes out on top. Each character rolls their dice pool (such as Attribute + Skill), and the character with the most successes wins the contest.
 
 ## Common Actions
 

@@ -1,62 +1,23 @@
 # Conditions
 
-Conditions represent ways in which the story has
-affected a character, and what he can do to move past
-those events. Players don’t buy Conditions. Instead,
-events in the game apply them and they remain until
-certain resolution criteria are met. A character can only
-have one instance of a particular Condition unless
-each applies to a distinctly different circumstance — for
-example, he may be Informed about both the occult
-symbol he stayed up all night to research and the inner
-workings of the corporation he infiltrated. He’d resolve
-each independently.
-
-Characters can gain Conditions as a result of
-many events or circumstances. A player can choose
-to bring a relevant Condition into play whenever he
-rolls an exceptional success. Breaking points can also cause Conditions as the character deals
-with the ravages of a harsh and terrifying world.
-Spirit Numina, vampiric Disciplines, and other
-supernatural powers can inflict Conditions on their
-unfortunate victims. Finally, the Storyteller can bring
-a Condition into play whenever it would heighten
-the drama of the story, or when it would make sense
-as the result of a character’s actions.
-
-The listed resolutions for each Condition
-are the most common ways to end its effects; other
-actions may also resolve it if they would reasonably
-cause the Condition’s effects to end. Players should
-work with the Storyteller to determine Condition
-resolution. When a character resolves a Condition,
-the player takes a Beat. However, if a Condition has
-a natural time limit and then fades away, he doesn’t
-take a Beat — just waiting the Condition out isn’t
-enough to resolve it.
-
-Some Conditions are marked as Persistent. These
-Conditions typically last for a long time, and can only be
-resolved permanently with a specific and impressive effort.
-Once per chapter, a player can gain a Beat when a Persistent
-Condition impacts his character’s life.
+Conditions are ways the story has affected a character and what they must do to overcome them. They are not purchased, but rather, are applied by events in the game and remain until resolved. A character can have multiple instances of a Condition if they pertain to different circumstances. Conditions can be gained through exceptional success, breaking points, supernatural powers, or the Storyteller. Resolution is usually achieved through the listed methods, but other actions may also work if they end the Condition's effects. Players and the Storyteller determine resolution. Resolving a Condition earns a Beat, except for those with a natural time limit. Some Conditions, marked as Persistent, last longer and can only be resolved with a significant effort. A player can earn a Beat per chapter when a Persistent Condition affects their character.
 
 ## Condition Sources
 
-Each condition has a source from which it originates, the source depicts the origin of the condition and how it can be resolved.
+Each condition has a source indicating its origin and how it can be resolved. Some sources have a type which represents a specific type of origin. Such as a condition with a source of Damage (head) meaning damage done to the head.
 
-### Sources
-**Damage (type)**: Lethal damage 
-**Failure (type)**: Failing a roll
-**Success (type)**: Succeeding a roll
-**Breaking Point**: Suffering a breaking point
-**Supernatural**: Experiencing the supernatural
-**Addiction**: Caused by having an addiction
-**Natural**: These happen naturally over time
+### **Sources:**
 
-## Obtaining beats
-Each condition has a chance to give you a beat when it causes you to fail a roll
+**Damage (type)**: Lethal damage\
+**Failure (type)**: Failed roll\
+**Success (type)**: Successful roll\
+**Breaking Point**: Experiencing a breaking point\
+**Supernatural**: Exposure to the supernatural\
+**Addiction**: Result of addiction\
+**Natural**: Occur naturally over time
 
-## Resolving Conditions
+## **Earning Beats**
+Conditions can result in a beat when they cause a failed roll.
 
-Conditions fall off when they are no longer applicable. This can be due to the object or entity that causes the condition being no longer around, or when a significant success or failure has been gained in theme with the source of the condition. 
+## **Resolving Conditions**
+Conditions fade when they are no longer relevant, either because the source is no longer present or a significant success or failure is achieved in line with the condition's origin.

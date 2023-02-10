@@ -1,10 +1,7 @@
-# Willpower
+# **Willpower**
 
-A character’s Willpower represents her determination and
-her ability to go above and beyond what should be possible
-to achieve her goals. Spending a point of Willpower adds
-a three-die bonus to most dice pools, or +2 to a Resistance
-trait. You can only spend one point of Willpower per action.
+Willpower is a character's determination and drive to achieve their goals. Spending a point of Willpower grants a +3 bonus to most dice pools or +2 to a Resistance trait, but only one point can be spent per action. A character can regain a spent point of Willpower by getting a full night's sleep.
 
-A character regains one point of spent Willpower for each
-full night’s sleep she gets.
+## **Anchors**
+
+Acting in accordance with your Virtue or Vice during a scene can restore your Willpower. If the Storyteller judges your actions reflect your Vice, you regain 1 spent Willpower point. If your actions reflect your Virtue and posed difficulty/risk, you regain all spent Willpower, up to twice per game session.

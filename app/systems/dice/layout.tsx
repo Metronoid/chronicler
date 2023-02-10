@@ -3,7 +3,7 @@ import lodash from 'lodash';
 import React from 'react';
 
 export default async function Layout({ children }: { children: React.ReactNode }) {
-  const categories = ['actions', 'time', 'specialties', 'willpower', 'anchors'];
+  const categories = ['actions', 'time', 'specialties', 'willpower'];
   return (
     <div className="space-y-9">
       <TabGroup
