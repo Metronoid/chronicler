@@ -4,29 +4,13 @@ Academics covers higher education and knowledge of arts and humanities, such as 
 **Sample Specialties**: English Literature, History, Law,
 Linguistics, Research
 
-## Levels:
+## **Levels**:
 • **Novice**: A character with basic knowledge of history and good research skills, likely a high school or college graduate.
 
-•• **Professional**: A PhD student, a teacher, or someone who is well-read enough to have a solid grasp
-on a number of academic fields. A character at this level can recall details about many different topics,
-and understands how to find more information
-on subjects that he does not immediately recall.
+•• **Professional**: A PhD student, teacher, or well-read individual with a strong understanding of various academic fields. They can recall details about multiple topics and know how to find more information on subjects not immediately remembered.
 
-••• **Experienced**: Someone with an excellent general
-education, and high expertise in one or two areas
-(generally represented with Skill Specialties). She
-is a college professor or PhD, or someone who is
-a voracious reader.
+••• **Experienced**: A person with excellent general education and specialized expertise in one or two areas (shown through Skill Specialties). They may be a college professor or PhD, or a avid reader.
 
-•••• **Expert**: A PhD at a prestigious school or an
-acknowledged expert. Someone with extensive
-knowledge and experience with conducting research, or a self-taught polymath and genius. He
-can probably teach master classes on a number
-of different topics, and is up-to-date on the latest
-ideas within many different fields.
+•••• **Expert**: A PhD from a prestigious school or recognized expert with extensive knowledge and research experience. May be a self-taught polymath and genius capable of teaching master classes on various topics, and knowledgeable on the latest ideas in multiple fields
 
-••••• **Master**: One of the top minds in academia, the
-acknowledged expert in his field. A walking
-Wikipedia, with a fact for just about any occasion.
-The character’s memory and breadth of knowledge
-are astounding.
+••••• **Master**: A top academic mind and acknowledged expert in their field, a walking Wikipedia with vast memory and knowledge. Able to recall facts for almost any situation.

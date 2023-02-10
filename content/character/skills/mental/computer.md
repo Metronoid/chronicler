@@ -1,58 +1,17 @@
-# Computer
+# **Computer**
 
-Almost everyone in the modern day can turn on a
-computer, use the internet, and perform basic searches.
-This Skill represents a character’s ability beyond that level.
-Having the Computer Skill allows the character to develop
-programs, diagnose and repair major software and hardware
-problems, and perform more carefully focused and effective
-searches for data. It can also be used for things like digging
-into a file system, finding hidden or encrypted files, cracking
-encryption, hacking into computer systems, or sabotaging
-computer networks.
-
-**Sample actions**: Hack into a computer system (Intelligence
-+ Computer), Internet and database searches (Wits +
-Computer), Programming (Intelligence + Computer)
+The Computer Skill represents advanced ability beyond basic internet use and computer operation. The character can program, diagnose/repair software/hardware problems, and conduct effective data searches. It can also be used for tasks like accessing hidden/encrypted files, cracking encryption, hacking systems, or sabotaging computer networks.
 
 **Sample Specialties**: Data Retrieval, Digital Security,
 Hacking, Programming, User Interface Design
 
-**Sample contacts**: AI Researcher, Hardcore Computer
-Gamer, White Hat Hacker
+## **Levels**:
+• **Novice**: A character with this level of knowledge has greater computer expertise than the average person. They have basic programming skills, can conduct complicated searches, and find/interpret hidden/encrypted files that an unskilled user would miss.
 
-## Levels:
-• **Novice**: A character at this level has probably
-used computers more extensively than the average
-person. She has a basic grasp of programming, can
-handle complicated searches, and can find and
-interpret files that were hidden or encrypted by
-the average (unskilled) user.
+•• **Professional**: The character may be an entry-level programmer or IT professional with solid programming knowledge and ability to perform complex computer tasks easily. They can hack relatively insecure networks and personal computers.
 
-•• **Professional**: The character could be an entry level
-programmer or IT professional. The character has
-a solid grasp of programming principles and can
-perform more elaborate computer tasks easily. She
-can hack relatively unsecure networks and personal
-computers.
+••• **Experienced**: TThe character has excellent training/talent or experience in computer work. They are highly skilled at finding information, even when hidden by skilled individuals. As a hacker, they can break into secure company files.
 
-••• **Experienced**: The character has excellent training
-and talent, or has been working with computers
-for a while. A character at this level is extremely
-adept at finding the information she needs, even
-when someone skilled has taken steps to hide it.
-As a hacker, she can break her way into the files
-of companies that have solid security.
+•••• **Expert**: An expert in computer theory, able to find obscure information through data correlation and detect irregularities in computer files. As a hacker, they have the knowledge and patience to penetrate government and military systems.
 
-•••• **Expert**: An expert in computer theory. The character can find extremely obscure information by
-correlating data from many sources, and can track
-down just about any irregularity in a computer’s
-files. If she is a hacker, then she has the knowledge
-and patience to get into government and even
-military systems.
-
-••••• **Master**: A character at this level is one of the best
-in the world. She has worked with the absolute
-cutting edge in computer technology, and can
-break into pretty much any computer system in
-the world. No information is safe from her.
+••••• **Master**: A world-class character with experience in cutting-edge computer technology, able to break into any computer system. No information is secure from them.
