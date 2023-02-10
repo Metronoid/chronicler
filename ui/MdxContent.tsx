@@ -16,12 +16,9 @@ export const Card = (props: React.HTMLProps<HTMLDivElement>) => (
 
 /** Place your custom MDX components here */
 const MdxComponents = {
-  a: (props: React.HTMLProps<HTMLHeadingElement>) => {
+  a: (props: React.HTMLProps<HTMLAnchorElement>) => {
     const href = props.href
-    if(href){
-      return <Link href={href}>{props.children}</Link>
-    }
-    return <div {...props}/>
+    return <Link href={href!}>{props.children}</Link>
   },
   h1: (props: React.HTMLProps<HTMLHeadingElement>) => (
     <h1 className="text-xl font-medium" {...props} />
