@@ -1,4 +1,4 @@
-# **Merits: Your traits**
+# **Merits: Your talents and assets**
 
 Merits symbolize a character's special talents and advantages, which can range from financial status to exceptional fighting skills.
 

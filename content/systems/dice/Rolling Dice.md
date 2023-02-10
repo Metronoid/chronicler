@@ -1,129 +1,42 @@
-# Rolling Dice
-When your character is trying to accomplish something and the outcome is in
-doubt, you roll a pool of ten-sided dice based on his relevant traits and read the
-results to determine success. Most of the time, you roll a number of dice equal to
-an Attribute plus a Skill. For example, to get the cop off your back, you use your
-character’s Manipulation Attribute of 4 and Subterfuge Skill of 3, so you roll seven dice. If you have a Specialty that’s relevant to the roll,
-add an extra die to your pool.
+# **Rolling Dice**
+To determine success in a task, roll a pool of 10-sided dice equal to the relevant Attribute + Skill. Add an extra die if there's a Specialty that applies. A roll of 8, 9, or 10 is a success, with each 10 counting as another success if rerolled. Modifiers such as equipment, circumstances, or opposition can range from +3 to -3 and are applied before rolling. If the pool drops to less than 1, roll a single chance die (1 is a dramatic failure, 10 is a success). More successes result in higher damage when attacking.
 
-Each die that shows an 8, 9, or 10 is a success. Normally, you
-only need one success to achieve your goal. It’s always better to
-get more successes, though, especially if you want to hurt someone, since your successes add to your damage when attacking.
+## **Roll Outcomes:**
 
-Every die that comes up as a 10 is a success. You also
-roll the die again, potentially scoring another success. If this
-second roll comes up as another 10, count the success and
-roll it again, on until you roll a number other than 10.
+**Success**: The action is successful with at least 1 success (a die of 8, 9, or 10, or a chance die of 10).
 
-Many rolls have modifiers, either from equipment,
-circumstance, or someone working against your character.
-Most modifiers are within the range of +3 to -3, though they
-can range as low as -5 or as high as +5. Apply the modifiers
-to your dice pool before you roll. Add all the bonuses first,
-then apply penalties.
+**Failure**: The action is unsuccessful, leading to complications. No successes are rolled.
 
-If your pool drops below one die, you instead roll a single
-chance die. The chance die only counts as a success if you roll
-a 10, which you do not reroll. Any other result is a failure.
-If you roll a 1 on the chance die, your character suffers a
-dramatic failure.
+**Exceptional Success**: The action exceeds expectations, with 5 or more successes rolled. The character earns a beneficial Condition, usually the Inspired Condition.
 
-### Roll Results
+**Dramatic Failure**: The action fails dramatically, resulting in a worsening situation. Rolled by a 1 on the chance die or by taking a Beat in exchange for a normal failure.
 
-Your roll can succeed and fail in a few different ways:
+## **When to Roll Dice**
 
-**Success**: Your character’s action goes off as planned.
-Achieved by having at least one success (a die showing 8, 9,
-or 10; or a chance die showing 10).
-
-**Failure**: Your character’s action fails. This doesn’t mean
-“nothing happens,” just that she doesn’t get what she wants
-and complications are headed her way. Occurs when you
-roll no successes.
-
-**Exceptional Success**: Your character’s action succeeds
-beyond her expectations. Achieved by rolling five or more
-successes. Your character gains a beneficial Condition. (See
-“Conditions,” p. 75.) Usually, the Inspired Condition is the
-most appropriate. You can give this Condition to another
-character when it’s appropriate to the story.
-
-**Dramatic Failure**: Your character fails badly, and things
-are about to get a whole lot worse. Suffered when you roll a 1
-on a chance die. Alternately you can take a Beat in exchange
-for turning a normal failure into a dramatic failure.
-
-## When to Roll Dice
-
-For many actions, you don’t need to roll dice. If your
-character isn’t in a stressful situation — nobody’s actively
-trying to tear his throat open, or demolish the building as he
-works — you don’t need to roll. When the dice hit the table,
-the Storyteller should have some idea of what will happen
-if the roll fails, as well as if it succeeds. Sometimes that’s
-coded in the rules. If you fail on an attack roll, you don’t
-deal any damage. Other times, it’s up to the Storyteller. If
-you fail a roll to jump between buildings with the prince’s
-hit-squad on your tail, do you make it but fall on the other
-side, grab the next building by your fingertips, or plummet
-to the alley below?
+Dice rolls are necessary during stressful situations, when failure could lead to a negative outcome. The Storyteller should have a clear understanding of the potential outcome if the roll succeeds or fails. Rules determine the consequences of failure in some cases, like failing an attack roll means no damage dealt. The outcome of other situations is determined by the Storyteller's discretion, such as when failing a roll to jump between buildings while pursued.
 
 ### Circumstance and Equipment
 
-Sometimes, fortune favors your character. Other times,
-she gives it a helping hand by packing the right tools for the
-job. The Storyteller should weigh how the circumstances
-affect a character’s chance of success. A slight advantage —
-picking an old and damaged lock — might be worth a bonus
-die, while a stressful situation — trying to pick a lock while
-people are shooting at you — might subtract three dice from
-your pool. Most of the time, the modifier from circumstances
-will be between +3 and –3, though in very rare cases — picking
-a lock while the room is on fire — it can range from +5 to –5.
+The Storyteller should consider how the situation and the character's equipment can impact the outcome of a roll. A positive circumstance, such as a damaged lock, may add a bonus die, while a negative circumstance, like being shot at while trying to pick a lock, may subtract dice from your pool. Modifiers usually range from +3 to -3, but in rare cases can range from +5 to -5.
 
-Bringing the right equipment for a task also gives you extra
-dice to roll. A sharp suit might give you bonus dice when trying to convince the CEO that your character knows the best
-plan, while a good pair of running shoes will help her escape
-from the things lurking in the shadows. Most equipment offers a one to three die bonus. A top-of-the-line or custom item
-might give a four or five die bonus, but such items often cost
-more than just money. When a task is impossible without
-some kind of equipment — hacking a computer, or driving
-a car — equipment bonuses indicate how far your tools are
-above the baseline. A beat-up old station wagon might not
-add any dice to a Drive roll, but a top-of-the-line sports car
-may add four or even five dice.
+Having the right equipment for a task also adds bonus dice to your roll, with equipment offering a 1-3 die bonus and high-end equipment offering a 4-5 die bonus. In some cases, equipment is essential to perform a task and the bonus indicates the level of quality compared to baseline equipment.
 
-## Attribute Tasks
+## **Attribute-Based Tasks**
+Some actions can be performed without special expertise, often in the form of Wits + Composure rolls to detect something odd, or Strength + Stamina rolls to lift an object. These rolls are determined by adding two different Attributes. If a task doesn't require a specific Skill, it can be done with an Attribute Task.
 
-Some actions require no special expertise to perform.
-Mostly, these come in the form of Wits + Composure rolls to
-notice something that doesn’t seem right, or using Strength +
-Stamina rolls to lift something. For these rolls, you add two
-different Attributes together to make your dice pool. If an
-action doesn’t seem to involve any particular Skill, it can be
-handled by an Attribute Task. 
+## **Muddling Through Without Skill**
+If your character lacks the required Skill, the Storyteller may allow you to use the Attribute instead with a penalty. Mental Skills impose a 3-die penalty, while Physical or Social Skills impose a 1-die penalty.
 
-## Muddling Through
+## **Dice Roll Variations**
 
-If your character has no dots in an applicable Skill, the
-Storyteller may allow you to roll your Attribute as a dice
-pool. Your character’s dice pool suffers a penalty for being
-untrained: if the roll would involve a Mental Skill, you take
-a three-die penalty, while a Physical or Social Skill applies a
-one-die penalty.
+**9-Again**: Reroll dice that show 9 or 10, and continue until you get a result other than 9 or 10.
 
-## Permutations
+**8-Again**: Reroll dice that show 8, 9, or 10, and keep rolling as long as you get successes.
 
-The Storytelling System has a few variations in how dice rolls work. 
+**Extra Successes**: If your roll succeeds, you get additional successes. This is mostly applied to weapons that add their damage bonus as extra successes on attack rolls.
 
-• **9-Again**: You reroll dice that show 9 or 10, as opposed to just 10. Keep rolling until you get a result that isn’t a 9 or 10. 
+**Rote Actions**: If you have enough training and the steps are clear, you have a good chance of success. Reroll any dice that don't show 8, 9, or 10. Don't reroll dramatic failures, and each die can only be rerolled once.
 
-• **8-Again**: You reroll dice that show 8, 9, or 10 — any successful die — and keep rolling as long as your dice show successes. 
+**Successive Attempts**: You can try again if you fail a roll. If time is not limited and there's no pressure, you can try again with the full dice pool. If time is short and the situation is tense, each subsequent attempt has a cumulative one-die penalty. Successive attempts don't apply to extended actions.
 
-• **Extra Successes**: Assuming your roll succeeds, you get a number of extra successes added to your total. This permutation mostly applies to weapons, which add their damage bonus as extra successes on your attack roll. 
-
-• **Rote Actions**: When you’ve got plenty of training and the steps you need to follow are laid out in front of you, you’ve got a significant chance of success. When you make a roll, you can reroll any dice that do not show an 8, 9, or 10. If you’re reduced to a chance die on a rote action, don’t reroll a dramatic failure. You may only reroll each die once. 
-
-• **Successive Attempts**: When you fail a roll, you may be able to try again. If time is not an issue and your character is under no pressure to perform, you may make successive attempts with your full dice pool. In the far more likely situation that time is short and the situation is tense, each subsequent attempt has a cumulative one-die penalty — so the third time a character tries to break down the door that’s keeping her inside a burning building, her roll has a two- die penalty. Successive attempts do not apply to extended actions. 
-
-• **Teamwork**: When two or more people work together, one person takes the lead. He’s the primary actor, and his player assembles his dice pool as normal. Anyone assisting rolls the same pool before the primary actor. Each success from a secondary actor gives the primary actor a bonus die. If one of the secondary actors rolls a dramatic failure, the primary actor takes a four-die penalty.
+**Teamwork**: When working together, one person leads and rolls their dice pool as normal. Assistants roll the same pool and each success gives the leader a bonus die. If an assistant rolls a dramatic failure, the leader takes a four-die penalty.
