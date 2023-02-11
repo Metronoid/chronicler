@@ -1,6 +1,6 @@
 # **Investigation**
 
-Investigating in the is about uncovering mysteries and gaining Clues to reach a desired outcome. A single dice roll can suffice for brief investigations, but for deeper explorations, the system offers greater depth. The accumulation of Clues benefits future actions and drives the story forward, whether it be solving a monster problem, finding a cure, or uncovering truth. The Clues are crucial in establishing credibility and determining the outcome, which could impact lives and change fates.
+Investigating is about uncovering mysteries and gaining Clues to reach a desired outcome. A single dice roll can suffice for brief investigations, but for deeper explorations, the system offers greater depth. The accumulation of Clues benefits future actions and drives the story forward, whether it be solving a monster problem, finding a cure, or uncovering truth. The Clues are crucial in establishing credibility and determining the outcome, which could impact lives and change fates.
 
 ## **What is a Clue?**
 
