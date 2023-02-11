@@ -1,11 +1,11 @@
-# Experience
+# **Experience**
 
 A player earns Beats for his character in many ways (listed
 below). When your character has gained five Beats, they
 convert to one Experience, which can be used to develop
 your character’s abilities.
 
-## Beats
+## **Beats**
 
 You gain Beats when your character fulfills one of the
 criteria below.
@@ -30,7 +30,7 @@ rightmost Health boxes, take a Beat.
 • Any time your character risks a breaking point,
 take a beat. 
 
-## Experience Costs
+## **Experience Costs**
 Spend the following amounts of Experiences to
 improve your character.
 
