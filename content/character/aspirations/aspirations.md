@@ -1,9 +1,0 @@
-## **Aspirations: Reasons for your character to exist**
-In role-playing games, characters have three key objectives referred to as Aspirations. These aspirations shape the stories you want to tell about your character and provide opportunities to earn Beats, which are rewards for character development. It's ideal to aim to complete one Aspiration per session, balancing short-term goals for one-shot games and longer-term goals for long-running campaigns.
-
-Active and challenging Aspirations are best. They bring excitement and direction to your character and provide interesting storylines for the Storyteller. Aspirations can also reflect what the player desires for their character, even if it differs from the character's own wants. If the character fails, the player still earns the reward for fulfilling the Aspiration. By expressing their desired story through Aspirations, players communicate their goals to the Storyteller, who should consider and adjust their plans accordingly.
-
-## **Changing Aspirations: Try things out**
-If you're unsure of what Aspirations to choose for your character at the start, don't worry. You can begin with simple goals or leave some slots blank to fill in later. Remember, Aspirations are a tool to enhance your playing experience, not a source of stress.
-
-As the chronicle evolves, your character's Aspirations may change. After completing an Aspiration, replace it with a new goal. If an Aspiration no longer fits your character, you can change it with the Storyteller's permission. This allows you to keep your character's goals aligned with their behavior and the overall story direction.
