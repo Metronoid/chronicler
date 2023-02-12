@@ -13,16 +13,6 @@ In the event that the pool of dice drops below one, a single chance die must be 
 
 **Dramatic Failure**: The action fails dramatically, resulting in a worsening situation. Rolled by a 1 on the chance die or by taking a Beat in exchange for a normal failure.
 
-## **When to Roll Dice**
-
-Dice rolls are necessary during stressful situations, when failure could lead to a negative outcome. The Storyteller should have a clear understanding of the potential outcome if the roll succeeds or fails. Rules determine the consequences of failure in some cases, like failing an attack roll means no damage dealt. The outcome of other situations is determined by the Storyteller's discretion, such as when failing a roll to jump between buildings while pursued.
-
-### Circumstance and Equipment
-
-The Storyteller should consider how the situation and the character's equipment can impact the outcome of a roll. A positive circumstance, such as a damaged lock, may add a bonus die, while a negative circumstance, like being shot at while trying to pick a lock, may subtract dice from your pool. Modifiers usually range from +3 to -3, but in rare cases can range from +5 to -5.
-
-Having the right equipment for a task also adds bonus dice to your roll, with equipment offering a 1-3 die bonus and high-end equipment offering a 4-5 die bonus. In some cases, equipment is essential to perform a task and the bonus indicates the level of quality compared to baseline equipment.
-
 ## **Attribute-Based Tasks**
 Some actions can be performed without special expertise, often in the form of Wits + Composure rolls to detect something odd, or Strength + Stamina rolls to lift an object. These rolls are determined by adding two different Attributes. If a task doesn't require a specific Skill, it can be done with an Attribute Task.
 
