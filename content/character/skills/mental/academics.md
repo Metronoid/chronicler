@@ -1,6 +1,9 @@
 # **Academics**
+<short>
 Academics covers higher education and knowledge of arts and humanities, such as history, language, literature, law, and economics. It can be specialized with Skill Specialties. The amount of schooling a character has is often reflected in their Academics Skill rating, but self-teaching and outside learning can also play a role. People with advanced degrees may still have a low rating in Academics if they focus only on their area of expertise.
+</short>
 
+<Long>
 **Sample Specialties**: English Literature, History, Law,
 Linguistics, Research
 
@@ -14,3 +17,4 @@ Linguistics, Research
 •••• **Expert**: A PhD from a prestigious school or recognized expert with extensive knowledge and research experience. May be a self-taught polymath and genius capable of teaching master classes on various topics, and knowledgeable on the latest ideas in multiple fields
 
 ••••• **Master**: A top academic mind and acknowledged expert in their field, a walking Wikipedia with vast memory and knowledge. Able to recall facts for almost any situation.
+</Long>

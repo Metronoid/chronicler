@@ -11,7 +11,7 @@ the ground, a character is considered prone. The character
 can still apply Defense against incoming attacks, and can
 attempt to attack from the ground at a -2 penalty.
 
-**Causing the Condition**: A melee weapon with a damage modifier of +2 or greater, or a firearm with a damage modifier of
+**Source**: A melee weapon with a damage modifier of +2 or greater, or a firearm with a damage modifier of
 +3 or more can be used to knock a character down with the
 force of the blow. Alternatively, a melee weapon or unarmed
 attack can knock an opponent down with a targeted attack
@@ -20,7 +20,7 @@ wants to knock his opponent down, and halves the total
 damage done (rounding down). On a successful attack, the
 target is knocked down.
 
-**Ending the Condition**: The easiest way to end this Condition is to
+**Resolution**: The easiest way to end this Condition is to
 stand up, which takes an action. A character who hasn’t
 yet acted can make a Dexterity + Athletics roll, minus any
 weapon modifier, instead of her normal action. If successful,

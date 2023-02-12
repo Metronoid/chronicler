@@ -7,6 +7,7 @@ Streetwise characters can make use of the city’s unique resources, buy and sel
 It’s an important Skill for any character that needs to avoid
 the law, navigate the dangers in the city, and keep from ending up on the bad sides of the wrong people.
 
+<Long>
 **Sample actions**: Find a shortcut (Wits + Streetwise), Get
 the word on the street (Manipulation + Streetwise), Work
 the black market (Manipulation + Streetwise)
@@ -38,3 +39,4 @@ everyone knows her.
 ••••• **Master**: There isn’t a secret in town that this character can’t access. A character at this rank doesn’t
 just know who to go to in order to get things done
 – he is the one people go to.
+</Long>

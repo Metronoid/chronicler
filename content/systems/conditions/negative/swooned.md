@@ -1,5 +1,5 @@
 # Swooned
-**Sources**: Social
+**Sources**: Failed (Composure)
 
 Your character has butterflies in his stomach. Note this
 Condition as Swooned (Character). He may have multiple

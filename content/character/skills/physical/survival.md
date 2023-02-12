@@ -15,6 +15,7 @@ without the Animal Ken Skill, doesn’t understand much
 about the animal’s behavior. He wouldn’t have much luck
 trying to calm a bear that found its way into his campsite.
 
+<Long>
 **Sample actions**: Foraging (Wits + Survival), Hunting
 (Wits + Survival), Sleeping in the open (Stamina +
 Survival)
@@ -54,3 +55,4 @@ dropped into the
 middle of the desert with no equipment and walk out. He
 knows how to survive in the
 harshest environments on earth.
+</Long>

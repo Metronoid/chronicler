@@ -6,6 +6,7 @@ hide her own motivations and emotions. Generally, this Skill
 is used to trick others, but some characters learn it in order
 to avoid being tricked themselves.
 
+<Long>
 **Sample actions**: Conceal emotions (Composure
 + Subterfuge), Disguise (Wits + Subterfuge), Lying
 (Manipulation + Subterfuge)
@@ -35,3 +36,4 @@ a flinch or a flicker of doubt.
 
 ••••• **Master**: Everyone likes and trusts this character.
 Everyone.
+</Long>

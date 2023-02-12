@@ -9,6 +9,7 @@ There is some overlap between this Skill and the Crafts
 Skill. Expression is generally used when trying to create a piece
 of artwork specifically for aesthetic or emotional reasons, as opposed to making an accurate copy or model, which uses Crafts.
 
+<Long>
 **Sample actions**: Composing a poem (Wits + Expression),
 Dance performance (Dexterity + Expression), Reciting a
 prepared speech (Presence + Expression)
@@ -38,3 +39,4 @@ or presidential speech writer.
 ••••• **Master**: This character’s speeches or performances
 could go down in history. He has the power to
 sway everyone who hears his work.
+</Long>

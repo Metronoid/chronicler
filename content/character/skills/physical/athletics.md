@@ -10,6 +10,7 @@ the character is hit in a fight. Just about any Chronicles of
 Darkness character is likely to find some use for the Athletics
 Skill. Sometimes, the only reasonable response is to run away.
 
+<Long>
 **Sample actions**: Acrobatics (Dexterity + Athletics),
 Climbing (Strength + Athletics), Running (Stamina +
 Athletics)
@@ -45,3 +46,4 @@ in the world.
 gold medal winners, world record holders, and the
 absolute best, fittest, and most talented people in
 the world.
+</Long>

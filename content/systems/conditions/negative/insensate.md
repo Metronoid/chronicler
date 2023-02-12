@@ -11,15 +11,15 @@ is resolved. He can apply Defense to incoming attacks, and
 if he takes any damage from an attack, he’s knocked free of
 whatever fogged his brain.
 
-**Causing the Condition**: Several supernatural powers can leave
+**Source**: Several supernatural powers can leave
 their victim in a trance-like state of heightened emotion,
-whether a vampire’s mind-affecting tricks, or the pantsshitting terror of witnessing a werewolf take on an inhuman
+whether a vampire’s mind-affecting tricks, or the pants shitting terror of witnessing a werewolf take on an inhuman
 form. A truly heroic amount of alcohol or a hallucinogenic
 drug might have similar effects; administering such a drug is
 a Dexterity + Weaponry attack, which suffers a -1 modifier
 for the improvised weapon.
 
-**Ending the Condition**: The Condition wears off at the end of the scene.
+**Resolution**: The Condition wears off at the end of the scene.
 The victim can spend a point of Willpower before then to
 act normally for one turn. A successful attack will also end
 the Condition. If a character has been knocked insensible by drugs,

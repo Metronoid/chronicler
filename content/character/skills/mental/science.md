@@ -10,6 +10,7 @@ a high Science Skill can explain what chemicals and
 proportions are needed to make an explosive, or determine the best materials for making a cage to hold a
 strange creature.
 
+<Long>
 **Sample actions**: Assess variables (Intelligence + Science),
 Perform experiment (Wits + Science), Recall formula
 (Intelligence + Science)
@@ -44,3 +45,4 @@ with some of the best scientists in the world.
 ••••• **Master**: The character is an Einstein, Curie, or
 Hawking. She is on the verge of revolutionary
 concepts, and is at the apex of her field.
+</Long>

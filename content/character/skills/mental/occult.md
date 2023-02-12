@@ -11,6 +11,7 @@ instead represents an array of knowledge about encounters
 and theories that others have had, and the ability to build
 on those theories herself.
 
+<Long>
 **Sample actions**: Debunk a fake (Intelligence + Occult),
 Identify a sliver of truth (Wits + Occult), Relate similar myths
 (Intelligence + Occult)
@@ -54,3 +55,4 @@ those pieces together.
 able to almost unfailingly identify actual supernatural events and creatures. Even when running
 into a completely new phenomenon, her instincts
 are impeccable.
+</Long>

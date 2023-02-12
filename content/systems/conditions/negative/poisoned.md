@@ -15,7 +15,7 @@ to continue the effects of the poison outside of combat, he
 can apply the standard rules for handling poisons and toxins
 when combat is complete.
 
-**Causing the Condition**: It’s possible for a character to not know
+**Source**: It’s possible for a character to not know
 that he’s been poisoned. It could be as innocuous as switching
 drinks with a pretty girl who is the target of a mob hit, or as
 simple as walking into a house with a carbon monoxide leak.
@@ -25,7 +25,7 @@ opponent with a syringe full of drain cleaner or snake venom
 counts as a Dexterity + Weaponry attack, and suffers a -1
 modifier for the improvised weapon.
 
-**Ending the Condition**: Short of immediate medical attention
+**Resolution**: Short of immediate medical attention
 and how many fights take place in an emergency room? all
 a victim can do is struggle on. Roll Stamina + Resolve as a
 reflexive action each turn that your character is poisoned. If

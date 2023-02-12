@@ -5,6 +5,8 @@ represents a practical and applicable knowledge of biology,
 anatomy, and chemistry. A character with the Medicine Skill
 can use it to treat wounds and diseases, diagnose illness, apply
 first aid, or even perform surgery.
+
+<Long>
 Sample actions: Diagnosis (Wits + Medicine), Perform
 surgery (Dexterity + Medicine), Treat disease (Intelligence
 + Medicine)
@@ -43,3 +45,4 @@ comes his way.
 or surgeons in the world. She can perform near
 miracles, and has knowledge of pretty much any
 illness or injury she comes across.
+</Long>

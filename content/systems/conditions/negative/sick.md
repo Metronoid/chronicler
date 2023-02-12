@@ -19,14 +19,14 @@ sickness. In addition, the physical stress of fighting or even
 defending oneself from an attacker while gravely ill inflicts
 a point of bashing damage per turn of combat.
 
-**Causing the Condition**: It’s not easy to deliberately make someone sick. Sure, if you can get your hands on a vial of smallpox
+**Source**: It’s not easy to deliberately make someone sick. Sure, if you can get your hands on a vial of smallpox
 or deliberately use a disease you’ve got to make someone sick
 (a breaking point, especially in the case of grave diseases like
 AIDS), then you’ve got a reasonable chance. Some supernatural creatures have abilities that can inflict diseases on others.
 Aside from that, you’ve just got to expose your opponent
 to the sickness long before you fight and hope for the best.
 
-**Ending the Condition**: This Condition reflects the effects of sickness as
+**Resolution**: This Condition reflects the effects of sickness as
 they specifically applies to combat. The penalties inflicted by
 this Condition fade at a rate of one point per turn once the character
 has a chance to rest, but any damage inflicted remains until

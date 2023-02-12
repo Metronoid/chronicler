@@ -16,6 +16,7 @@ be fairly common or highly restricted. Characters with the
 Firearms Skill generally understand local gun laws, and are
 good at obtaining Firearms when necessary.
 
+<Long>
 **Sample actions**: Identifying a gun (Intelligence +
 Firearms), Pick a good firing position (Wits + Firearms), Trick
 shooting (Dexterity + Firearms)
@@ -52,3 +53,4 @@ in the world who can match a character with this
 level of Firearms. She can shoot any gun under
 just about any condition and have a good chance
 of hitting her target.
+</Long>

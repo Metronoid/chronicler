@@ -7,6 +7,7 @@ wants. He knows how to follow the money and how to play rivals off each other. A
 may have run for office, worked for the government, or
 may simply be a follower of local politics.
 
+<Long>
 **Sample actions**: Identify authority (Wits + Politics),
 Navigate bureaucracy (Resolve + Politics), Mudslinging
 (Manipulation + Politics)
@@ -48,3 +49,4 @@ without anyone being aware of her manipulations of the system.
 ••••• **Master**: The character knows all the players,
 what they really want, and where the bodies
 are buried.
+</Long>

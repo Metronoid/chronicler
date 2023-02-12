@@ -11,6 +11,7 @@ Brawl is generally rolled with Strength in a hand-to-hand fight.
 A character who is well trained in a specific style of combat
 may have that represented with a Fighting Style Merit.
 
+<Long>
 **Sample actions**: Breaking boards (Strength + Brawl),
 Intimidating display (Presence + Brawl), Identifying a fighting
 style (Intelligence + Brawl)
@@ -47,3 +48,4 @@ situation.
 in the world. She could be an unstoppable bar room
 brawler, a renowned teacher of multiple martial
 arts, or one of the deadliest killers on Earth.
+</Long>

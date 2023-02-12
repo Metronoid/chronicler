@@ -11,6 +11,7 @@ in a friendly fashion towards her target. The Empathy Skill is
 simply the ability to understand and work with the emotions
 that someone is feeling.
 
+<Long>
 **Sample actions**: Determine intentions (Wits + Empathy),
 Sense Deception (Wits + Empathy), Soothe nerves
 (Manipulation + Empathy)
@@ -38,3 +39,4 @@ guarded people. Even tiny details of behavior can
 be the clue to figuring out what someone wants.
 
 ••••• **Master**: Human behavior is open book to this character. People often accuse her of being a mind reader.
+</Long>

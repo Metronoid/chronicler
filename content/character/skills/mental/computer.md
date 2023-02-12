@@ -2,6 +2,7 @@
 
 The Computer Skill represents advanced ability beyond basic internet use and computer operation. The character can program, diagnose/repair software/hardware problems, and conduct effective data searches. It can also be used for tasks like accessing hidden/encrypted files, cracking encryption, hacking systems, or sabotaging computer networks.
 
+<Long>
 **Sample Specialties**: Data Retrieval, Digital Security,
 Hacking, Programming, User Interface Design
 
@@ -15,3 +16,4 @@ Hacking, Programming, User Interface Design
 •••• **Expert**: An expert in computer theory, able to find obscure information through data correlation and detect irregularities in computer files. As a hacker, they have the knowledge and patience to penetrate government and military systems.
 
 ••••• **Master**: A world-class character with experience in cutting-edge computer technology, able to break into any computer system. No information is secure from them.
+</Long>

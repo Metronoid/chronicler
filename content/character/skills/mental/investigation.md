@@ -12,6 +12,7 @@ or unusual. Investigation is a Skill that the character actively
 uses to find clues and information and create a more concrete
 picture of the situation.
 
+<Long>
 **Sample Specialties**: Crime Scenes, Cryptography,
 Dreams, Forensic Accounting, Riddles
 
@@ -37,3 +38,4 @@ easily see patterns in massive amounts of data.
 
 ••••• **Master**: Sherlock Holmes. This character’s investigative instincts are perfect, and no clue escapes
 his notice. 
+</Long>

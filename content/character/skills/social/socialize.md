@@ -8,6 +8,7 @@ balance of sensitivity, friendliness, etiquette, and dignity for the
 setting. A character with a high Socialize is the life of the party, or
 at least able to meet almost anyone she wishes who is at an event.
 
+<Long>
 **Sample actions**: Carouse (Manipulation + Socialize), Fit
 in (Wits + Socialize), Get attention (Presence + Socialize)
 
@@ -38,3 +39,4 @@ be a spy or a high ranking diplomat. She always
 seems to know exactly what is expected for the
 social situation, including those times when acting
 outside the norm is the best way to fit in.
+</Long>

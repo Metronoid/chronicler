@@ -17,4 +17,4 @@ dexterity. If this effect spreads to both limbs, you’re down to
 a chance die on any rolls that require manual dexterity, and
 -3 to all other Physical actions.
 
-**Resolving the Condition**: Healing (Arm)
+**Resolution**: Healing (Arm)

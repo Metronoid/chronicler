@@ -9,4 +9,4 @@
 
 **War Cry** (••): Your character chills an opponent’s blood with her mad howl. Instead of attacking, roll a contested Strength + Intimidation versus opponent’s Resolve + Composure. If your character gets the most successes, her opponent suffers a penalty equal to your successes to any action other than Dodging for the next turn. 
 
-**Manic Brutality** (•••): Your character lashes out with a singleminded determination to destroy. Her all-out unarmed attacks have a +1 bonus to hit specified targets. If she’s using a weapon then she may substitute its Durability for its weapon bonus. Drawback: If she’s using a weapon, then all damage taken by her opponent is also applied directly to the weapon’s Structure.
+**Manic Brutality** (•••): Your character lashes out with a single minded determination to destroy. Her all-out unarmed attacks have a +1 bonus to hit specified targets. If she’s using a weapon then she may substitute its Durability for its weapon bonus. Drawback: If she’s using a weapon, then all damage taken by her opponent is also applied directly to the weapon’s Structure.

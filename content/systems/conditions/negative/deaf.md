@@ -9,4 +9,4 @@ penalty to hearing-based Perception rolls. A character who
 is struck deaf in both ears only gets a chance die on hearing based Perception rolls, and suffers a -2 penalty to all combat related dice rolls — suddenly losing the ability to hear the
 people around you is tremendously disorienting.
 
-**Resolving the Condition**: Healing (Head)
+**Resolution**: Healing (Head)

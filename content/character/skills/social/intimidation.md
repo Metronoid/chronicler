@@ -7,6 +7,7 @@ force. It can convince characters to back down from a confrontation, reveal info
 get them to cooperate against their better judgement. It can’t
 change their minds, but it can certainly change their behavior.
 
+<Long>
 **Sample actions**: Show of force (Strength + Intimidation),
 Stare down (Presence + Intimidation), Subtle threat
 (Manipulation + Intimidation)
@@ -36,3 +37,4 @@ minutes in interrogation with him. He can clear
 a room with a look.
 
 ••••• **Master**: A word and a glance can make drill sergeants or mob hitmen run from her.
+</Long>

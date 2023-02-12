@@ -15,6 +15,7 @@ to pick a pocket or palm an item. It does not cover sneaking
 around, hacking and digital crimes, or the social aspects of
 running a con or distracting a mark.
 
+<Long>
 **Sample actions**: Casing a building (Wits + Larceny), Lock
 picking (Dexterity + Larceny), Sleight of hand (Dexterity +
 Larceny)
@@ -48,3 +49,4 @@ vaults and secure facilities.
 ••••• **Master**: A character at this level is Harry Houdini.
 She can get out of any lock, break into secure sections of the Pentagon, and take the glasses off of
 a man’s face without him noticing.
+</Long>

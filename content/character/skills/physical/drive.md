@@ -13,6 +13,7 @@ If you want your character to be capable of piloting aircraft as well, you need 
 A character without the Piloting Specialty is considered
 untrained if he attempts to operate a plane or other aircraft.
 
+<Long>
 **Sample actions**: Pursuit (Dexterity + Drive), Stunt-Flying
 (Dexterity + Drive), Tailing (Wits + Drive)
 
@@ -46,3 +47,4 @@ can handle fighter jets.
 
 ••••• **Master**: There is no vehicle on earth that this
 character can’t drive.
+</Long>

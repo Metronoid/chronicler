@@ -4,6 +4,8 @@ unheard. It covers sneaking around in the shadows, blending
 into a crowd, using a disguise to appear as just another bystander in the background, or taking advantage of an appropriately
 timed distraction. Any means a character uses to avoid being
 noticed by those who are looking for her will use this Skill.
+
+<Long>
 Sample actions: Losing a tail (Wits + Stealth), Shadowing
 (Wits + Stealth), Sneaking (Dexterity + Stealth)
 
@@ -33,3 +35,4 @@ ghost. She is almost impossible to find or follow
 unless she allows it. She can hide in an open field
 or walk up behind an alert guard without being
 noticed.
+</Long>

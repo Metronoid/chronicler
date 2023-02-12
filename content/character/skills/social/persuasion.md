@@ -7,6 +7,7 @@ doesn’t just involve forcing a character to change how they
 act, Persuasion is about changing their mind and how they
 want to act.
 
+<Long>
 **Sample actions**: Fast talk (Manipulation + Persuasion),
 Impassioned plea (Presence + Persuasion), Seduction
 (Manipulation + Persuasion)
@@ -40,3 +41,4 @@ that they normally wouldn’t even consider.
 just about anything, at least for a short time. Even
 beliefs that make up a large chunk of a person’s
 self-identity can be questioned.
+</Long>

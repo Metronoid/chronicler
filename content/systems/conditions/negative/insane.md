@@ -16,7 +16,7 @@ Insane Condition, both act after everyone else but compare Initiative
 as normal). A character suffering from this Condition cannot spend
 Willpower in combat, and suffers a -3 penalty to all Social rolls.
 
-**Causing the Condition**: Faced with extraordinary circumstances,
+**Source**: Faced with extraordinary circumstances,
 any character with an appropriate Condition may acquire
 the Insane Condition. The Storyteller can call for a Resolve +
 Composure roll to resist a general anxiety that gnaws at the
@@ -37,7 +37,7 @@ dosing a paranoid schizophrenic with hallucinogenic drugs.
 Some supernatural creatures possess mind-affecting powers that can apply this Condition, even to characters who do not
 have an appropriate Condition.
 
-**Ending the Condition**: The specific effects of this Condition don’t
+**Resolution**: The specific effects of this Condition don’t
 normally last beyond the end of the scene. A character can
 try to force her mind to a state of balance, but it’s not easy.
 She must sit and focus on blocking out the craziness. She rolls

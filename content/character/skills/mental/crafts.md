@@ -17,6 +17,7 @@ bare hands. However, this generally should not cause them
 problems unless they are in a situation where the tools or
 materials are rare or difficult to access. 
 
+<Long>
 **Sample Specialties**:  Automotive, Carpentry, Jury Rigging,
 Sculpting, Welding
 
@@ -48,3 +49,4 @@ or build working devices from the scraps other
 people throw out. He is a da Vinci, able to draw
 stunningly realistic diagrams or design fantastic
 devices.
+</Long>

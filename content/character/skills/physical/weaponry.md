@@ -14,6 +14,7 @@ can almost always find something that you can use as a
 hand weapon, even if it’s just something like a screwdriver
 or a broom handle.
 
+<Long>
 **Sample actions**: Identify fighting style (Intelligence +
 Weaponry), Impressive display (Dexterity + Weaponry),
 Size up opponent (Wits + Weaponry)
@@ -45,3 +46,4 @@ handle herself against single or multiple opponents.
 
 ••••• **Master**: A character at this rank can actually perform the sort of feats action movie stars pretend
 to be capable of.
+</Long>
