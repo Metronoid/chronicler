@@ -29,11 +29,6 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Learn how to create a character',
       },
       {
-        name: 'Attributes',
-        slug: 'character/attributes',
-        description: 'Look through the available attributes',
-      },
-      {
         name: 'Skills',
         slug: 'character/skills',
         description: 'Look through the available skills',
