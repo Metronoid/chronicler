@@ -38,10 +38,15 @@ export const routes: { name: string; items: Item[] }[] = [
         slug: 'character/merits',
         description: 'Look through the available merits',
       },
+      {
+        name: 'Experience',
+        slug: 'character/experience',
+        description: 'Tools for keeping track of experience',
+      },
     ],
   },
   {
-    name: 'Systems',
+    name: 'Basic Systems',
     items: [
       {
         name: 'Rolling Dice',
@@ -49,35 +54,11 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Tools for taking actions and rolling dice',
       },
       {
-        name: 'Integrity',
-        slug: 'systems/integrity',
-        description: 'Tools for handling your integrity',
-      },
-      {
         name: 'Conditions',
         slug: 'systems/conditions',
         description: 'Tools for keeping track of conditions',
       },
-      {
-        name: 'Experience',
-        slug: 'systems/experience',
-        description: 'Tools for keeping track of experience',
-      },
-      {
-        name: 'Investigation',
-        slug: 'systems/investigation',
-        description: 'Tools for finding clues',
-      },
-      {
-        name: 'Social Maneuvering',
-        slug: 'systems/social',
-        description: 'Tools for maneuvering the social combat',
-      },
-      {
-        name: 'Chases',
-        slug: 'systems/chases',
-        description: 'Tools for resolving chases',
-      },
+
       {
         name: 'Tilts',
         slug: 'systems/tilts',
@@ -94,14 +75,34 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Find out the different sources of damage',
       },
       {
+        name: 'Equipment',
+        slug: 'systems/equipment',
+        description: 'Find out how Equipment works and which are available',
+      },
+    ],
+  },
+  {
+    name: 'Advanced Systems',
+    items: [
+      {
+        name: 'Investigation',
+        slug: 'systems/investigation',
+        description: 'Tools for finding clues',
+      },
+      {
+        name: 'Chases',
+        slug: 'systems/chases',
+        description: 'Tools for resolving chases',
+      },
+      {
         name: 'Vehicles',
         slug: 'systems/vehicles',
         description: 'Find out how Vehicles work and which are available',
       },
       {
-        name: 'Equipment',
-        slug: 'systems/equipment',
-        description: 'Find out how Equipment works and which are available',
+        name: 'Social Maneuvering',
+        slug: 'systems/social',
+        description: 'Tools for maneuvering the social combat',
       },
     ],
   },

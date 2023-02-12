@@ -69,7 +69,7 @@ Consider your character's Attributes and Aspirations when making skill choices. 
 ## **Step 6: Adding Skill Specialties**
 In this step, you'll further refine your character's skills by adding specialties. A specialty is a particular area of expertise within a skill, and helps to make your character feel more unique and specialized.
 
-You get to choose a total of three specialties among your skills to reflect your character's unique focus and areas of expertise. Having a specialty in a skill gives your character a bonus die when performing tasks related to that specialty. For example, if your character has a Firearms skill and a specialty in Shotguns, they would receive a bonus die when using shotguns in the game.
+You get to choose a total of three specialties among your skills to reflect your character's unique focus and areas of expertise. Having a specialty in a skill gives your character a bonus die when performing tasks related to that specialty. For example, if your character has a Firearms skill and a specialty in Shotguns, they would receive a bonus die when using shotguns in the game. Keep in mind that one skill can have multiple specialties.
 
 When choosing specialties, think about what makes your character unique and sets them apart from others. Consider your character's background, personality, and aspirations when making these choices. For example, if your character is a firefighter/aspiring chef, you might choose specialties in Firefighting Techniques, Cooking Techniques, and First Aid, reflecting their expertise in all three areas. If your character is a medical student/hacker, you might choose specialties in Medical Procedures, Computer Hacking, and Surveillance, reflecting their areas of expertise.
 

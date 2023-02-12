@@ -1,5 +1,0 @@
-# **Skill Specialties**
-
-Specialties describe a character's specific areas of expertise within their broader Skills. The Storyteller decides what constitutes a Specialty. Each Skill provides example Specialties as a guide. Characters start with three Specialties and can buy more with Experiences. A character can have multiple Specialties for one Skill, but only one of each Specialty. Specialties help flesh out a character's background and identify their preferred problem-solving approach. For example, a character with Firearms 3 and a Rifles Specialty is good with all guns, but excels with rifles.
-
-When a Specialty applies to a Skill roll, the character adds one die, which combines with other situational modifiers. Multiple Specialties can apply to a single roll with Storyteller approval. A well-justified Specialty shouldn't apply.

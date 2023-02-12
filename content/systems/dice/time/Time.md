@@ -1,3 +1,4 @@
+
 # **Time**
 
 The pace of time in the story can vary greatly compared to real life. A tense negotiation could take hours or weeks, while weeks or months could pass in just a few words.
@@ -12,4 +13,4 @@ There are five units of dramatic time used in the game, starting with the smalle
 
 • **Story** - A complete tale with an introduction, rising tension, twists, and a conclusion. Can be made up of multiple chapters or just one.
 
-• **Chronicle** - A collection of interconnected stories involving the characters. They can be linked by a common theme or plotline or just shared characters and locations. The storyteller and players work together to create an ongoing chronicle
+• **Chronicle** - A collection of interconnected stories involving the characters. They can be linked by a common theme or plotline or just shared characters and locations. The storyteller and players work together to create an ongoing chronicle.
