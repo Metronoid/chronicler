@@ -1,4 +1,4 @@
-# Crafts
+# **Crafts**
 
 The Crafts Skill represents a character’s knowledge of
 repairing, designing, and creating things. It covers tasks like
@@ -17,14 +17,8 @@ bare hands. However, this generally should not cause them
 problems unless they are in a situation where the tools or
 materials are rare or difficult to access. 
 
-**Sample actions**: Look for flaws (Wits + Crafts), Design
-object (Intelligence + Crafts), Repair item (Dexterity + Crafts)
-
 **Sample Specialties**:  Automotive, Carpentry, Jury Rigging,
 Sculpting, Welding
-
-**Sample contacts**: Automotive Engineer, “Makerspace”
-Enthusiast, Police Sketch Artist
 
 ## Levels:
 • **Novice**:  A character at this level can perform basic

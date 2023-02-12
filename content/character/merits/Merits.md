@@ -1,6 +1,6 @@
-# **Merits: Your talents and assets**
+# **Merits**
 
-Merits symbolize a character's special talents and advantages, which can range from financial status to exceptional fighting skills.
+If you have not read the [Character Creation Guide](/character/guide) be sure to do so since it gives a in depth explanation of merits from a character creation perspective. This page gives some extra information such as renaming your merits, letting you know you are free to switch around merit points and how the more advanced style merits work.
 
 ## **Renaming Merits**
 

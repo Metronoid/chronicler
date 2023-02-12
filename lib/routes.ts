@@ -24,13 +24,13 @@ export const routes: { name: string; items: Item[] }[] = [
     name: 'Character Creation',
     items: [
       {
-        name: 'Character Creation',
-        slug: 'character/creation',
+        name: 'Guide',
+        slug: 'character/guide',
         description: 'Learn how to create a character',
       },
       {
         name: 'Skills',
-        slug: 'character/skills',
+        slug: 'character/skills/mental',
         description: 'Look through the available skills',
       },
       {

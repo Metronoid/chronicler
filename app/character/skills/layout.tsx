@@ -9,9 +9,6 @@ export default async function Layout({ children }: { children: React.ReactNode }
       <TabGroup
       path="/character/skills"
       items={[
-        {
-          text: 'Main',
-        },
         ...categories.map((x) => ({
           text: lodash.startCase(`${x}`),
           slug: x.toLowerCase(),
