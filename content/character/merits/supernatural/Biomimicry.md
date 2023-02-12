@@ -16,7 +16,7 @@ teeth protruding from the gums) that do lethal damage, but treated as 0 lethal w
 secreted from the pores) that coats a target with a
 Dexterity + Athletics roll; target’s Defense applies.
 If successful, it inflicts a moderate version of the
-Poisoned Tilt on the victim.
+Poisoned Condition on the victim.
 
 • Armor (tumorous growths covering the skin, thick
 leathery hide, fused bone plates covering vital organs,

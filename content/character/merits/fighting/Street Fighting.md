@@ -9,7 +9,7 @@
 
 **Wind Out** (••): Shots to the center mass can shake an opponent, and your character knows this well. When your character makes a successful unarmed attack, the opponent suffers a -1 to his next roll. 
 
-**Kick ‘Em While They’re Down** (•••): The best enemy is one on the ground. Your character topples opponents, and keeps them down. Any time your successes on an attack roll exceed an opponent’s Stamina, you may choose to apply the Knocked Down Tilt. Additionally, any time your character is close enough to strike when an opponent attempts to get up from a prone position, she can reflexively cause two bashing damage. 
+**Kick ‘Em While They’re Down** (•••): The best enemy is one on the ground. Your character topples opponents, and keeps them down. Any time your successes on an attack roll exceed an opponent’s Stamina, you may choose to apply the Knocked Down Condition. Additionally, any time your character is close enough to strike when an opponent attempts to get up from a prone position, she can reflexively cause two bashing damage. 
 
 **One-Two Punch** (••••): Your character hits fast, and she follows through with every hit. Whenever she makes a successful attack, you can spend a point of Willpower to cause two extra points of bashing damage. 
 

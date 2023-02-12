@@ -11,12 +11,12 @@ appropriate for the speed of the flooding. Alternatively, she
 can try to hold her breath (Stamina + Composure) if she
 cannot get her head above the rising waters.
 
-**Causing the Tilt**: Normally, this Tilt is the result of heavy
+**Causing the Condition**: Normally, this Condition is the result of heavy
 rain, sudden snowmelt, or a broken water main. Characters
-can cause this Tilt by smashing up a water heater, or blowing
+can cause this Condition by smashing up a water heater, or blowing
 up a small dam. Some supernatural creatures may be able to
 call floods down onto a region.
 
-**Ending the Tilt**: Characters can escape flooding by getting to high ground, which is enough to mitigate this Tilt.
+**Ending the Condition**: Characters can escape flooding by getting to high ground, which is enough to mitigate this Condition.
 A long-term fix would require draining the floodwaters, but
 each flood requires its own solution.

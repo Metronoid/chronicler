@@ -60,27 +60,27 @@ or wood to inflict trauma.
 
 Attacking specific body parts has its benefits. In addition
 to ignoring armor, strikes to the limbs
-and head can have added effects, represented by Tilts. These attacks take dice penalties depending on the
+and head can have added effects, represented by Conditions. These attacks take dice penalties depending on the
 body part targeted, noted below.
 
 • **Arm** (-2): A damaging hit can inflict the Arm Wrack
-Tilt if it deals more damage than the target’s Stamina
+Condition if it deals more damage than the target’s Stamina
 
-• **Leg** (-2): A damaging hit can inflict the Leg Wrack Tilt
+• **Leg** (-2): A damaging hit can inflict the Leg Wrack Condition
 if it deals more damage than the target’s Stamina
 
 • **Head** (-3): A damaging attack can inflict the Stunned
-Tilt if it deals at least as much damage as the target’s Size
+Condition if it deals at least as much damage as the target’s Size
 
 • **Heart** (-3): If the attacker does at least five points of
 damage, the weapon pierces the opponent’s heart,
 with special effects for some monstrous targets
 
 • **Hand** (-4): On a damaging hit, the victim suffers the
-Arm Wrack Tilt
+Arm Wrack Condition
 
 • **Eye** (-5): On a damaging hit, the victim suffers the
-Blinded Tilt
+Blinded Condition
 
 ## Killing Blow
 

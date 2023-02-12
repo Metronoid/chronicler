@@ -12,11 +12,11 @@ duration, though a reflexive Stamina + Athletics roll can
 downgrade that damage to bashing — or cancel it entirely on
 an exceptional success.
 
-**Causing the Tilt**: Without tremendous supernatural
+**Causing the Condition**: Without tremendous supernatural
 power, it’s almost impossible to cause an earthquake. A
 character who detonates a powerful explosive underground
 might simulate the effects over a city block for a few seconds.
 
-**Ending the Tilt**: Earthquakes are, fortunately, very quick
+**Ending the Condition**: Earthquakes are, fortunately, very quick
 events. It’s very rare for one to last more than a minute (20
 turns), so waiting them out is the best course of action

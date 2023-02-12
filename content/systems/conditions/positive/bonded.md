@@ -1,8 +1,10 @@
-# Bonded
+# **Bonded**
 **Sources**: Success (Animal Ken)
 
-Your character has established an extensive bond with an
-animal. She gains +2 on any rolls to influence or persuade the
+**Description**: Your character has established an extensive bond with an
+animal. 
+
+**Effect**: She gains +2 on any rolls to influence or persuade the
 animal once per scene. The animal may add your Animal Ken
 to any rolls to resist coercion or fear when in your character’s
 presence. The animal may add your character’s Animal Ken

@@ -61,7 +61,7 @@ apply Defense against incoming attacks.
 
 • **Restrain** the opponent with duct tape, zip ties,
 or a painful joint lock. The opponent suffers the
-Immobilized Tilt. A character can only use
+Immobilized Condition. A character can only use
 this move if he’s already succeeded in a Hold move. If
 he uses equipment to Restrain the opponent, he can
 leave the grapple.

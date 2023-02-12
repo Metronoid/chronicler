@@ -11,4 +11,4 @@
 
 **Retrieve Item** (•••): Your bird knows how to grab small items and bring them back to you, even snatching them from someone’s hand. On your character’s turn she can designate any object of the bird’s Size or smaller within her and her bird’s field of vision that the bird will retrieve. An opponent actively holding onto an item treats this as a Disarm maneuver, but if successful the bird’s roll is automatically considered an exceptional success. This generally requires the bird make an all-out attack. 
 
-**Rake the Eyes** (••••): Your character commands her bird to claw at an opponent’s eyes. Take a –1 penalty to attack. A successful attack applies the Blinded Tilt.
+**Rake the Eyes** (••••): Your character commands her bird to claw at an opponent’s eyes. Take a –1 penalty to attack. A successful attack applies the Blinded Condition.

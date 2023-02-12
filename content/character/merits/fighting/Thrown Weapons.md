@@ -7,6 +7,6 @@
 
 **Practiced Toss** (•): Your character knows how to throw her weapon with a quick and fluid motion. Add her Athletics score to Initiative when using a thrown weapon. 
 
-**Impalement Arts** (••): A well-placed throw staples an opponent’s limbs to the environment. If your character succeeds in damaging a specified target arm, leg, or hand with a thrown weapon, she inflicts the Impaled Tilt. 
+**Impalement Arts** (••): A well-placed throw staples an opponent’s limbs to the environment. If your character succeeds in damaging a specified target arm, leg, or hand with a thrown weapon, she inflicts the Impaled Condition. 
 
 **Drawback**: The heft needed to make her throw penetrate leaves your character vulnerable. She loses her Defense any turn she uses this maneuver.

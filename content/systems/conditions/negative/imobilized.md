@@ -1,4 +1,5 @@
 # Immobilized
+**Sources**: Grappled
 
 **Description**: Something holds the character fast, preventing him from moving. This could be a grappling opponent, a
 straightjacket wrapped with heavy chains, or a coffin secured
@@ -9,13 +10,13 @@ can’t take combat-related actions. If someone’s holding him
 down, he can spend a point of Willpower to deliver a head
 butt or similar attack, but even that might not free him.
 
-**Causing the Tilt**: The usual way to inflict this Tilt is through
+**Causing the Condition**: The usual way to inflict this Condition is through
 the Restrain grappling move. This often uses material means to
 prevent the victim from moving, such as binding limbs with duct
 tape or zip ties, tossing the victim into a car trunk or similar tight
 space, or applying painful holds and joint locks.
 
-**Ending the Tilt**: An Immobilized target can break free by
+**Ending the Condition**: An Immobilized target can break free by
 escaping from a grapple or snapping whatever binds her. If
 grappled, the character can struggle as normal but can only
 select the Break Free move on a success. If held by an item,

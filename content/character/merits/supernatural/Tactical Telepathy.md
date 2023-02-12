@@ -14,7 +14,7 @@ first. The effect lasts for the remainder of the scene.
 
 **White Noise **(••): A voice in your head can be an encouraging whisper, or a deafening scream that reverberates inside
 your skull. With a successful Telepathy roll you can inflict
-the Stunned Tilt on an opponent in addition to normal
+the Stunned Condition on an opponent in addition to normal
 Telepathy effects.
 
 **Unison** (•••): When the moment comes, you and your

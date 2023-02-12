@@ -9,7 +9,7 @@ triggers a Damage 3, Force 3 explosion with a primary blast
 area of the psychic’s Resolve in meters or yards. The psychic
 is at ground zero, but only suffers bashing damage – not
 lethal. If the damage exceeds a character’s Stamina then it
-applies the Knocked Down Tilt as well – this does not apply
+applies the Knocked Down Condition as well – this does not apply
 to the psychic.
 
 **Drawback**: This power is instinctive to your character’s

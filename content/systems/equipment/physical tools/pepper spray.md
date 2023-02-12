@@ -13,7 +13,7 @@ yards is medium, three yards is long range. An opponent’s
 Defense applies, but in normal wind conditions, the die
 bonus applies to the roll.
 
-Upon the first attack, the victim suffers the Stun Tilt. An opponent struck suffers a -5 penalty to all
+Upon the first attack, the victim suffers the Stun Condition. An opponent struck suffers a -5 penalty to all
 actions. This penalty can be reduced by one for every turn
 spent rinsing the eyes with water. Commercial chemicals
 designed to clean the eyes will fully remove the penalty

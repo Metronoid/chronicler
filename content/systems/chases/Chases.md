@@ -120,7 +120,7 @@ Condition.
 character suffers the
 terms for failure that turn. You can lose one combined success from your total,
 or your character suffers a specific narrative effect such as a
-Tilt, two bashing, or one lethal damage. 
+Condition, two bashing, or one lethal damage. 
 
 **Success**: Your character overcomes the immediate challenge in the chase, and makes headway. Calculate successes,
 and add them to your running total.

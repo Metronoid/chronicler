@@ -10,14 +10,14 @@ Thick gray curtains of water obscure vision.
 or worse — cause a Perception penalty of -3 dice to both
 vision and hearing. Rain’s hard to see through, but it’s also
 loud. If the rains carry on for an hour or more, the Flooded
-Tilt will soon follow. This Tilt is often accompanied by
+Condition will soon follow. This Condition is often accompanied by
 Heavy Winds; a character trapped out in Heavy Rains might
 come under the effects of Extreme Cold.
 
-**Causing the Tilt**: Short of a supernatural power or a
+**Causing the Condition**: Short of a supernatural power or a
 fleet of cloud-seeding aircraft, Heavy Rain is the result of
 natural weather patterns.
 
-**Ending the Tilt**: The best way out of the rain is to get
+**Ending the Condition**: The best way out of the rain is to get
 indoors. Unless it’s the start of some sodden apocalypse,
 the characters can wait for the weather to ease.

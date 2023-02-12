@@ -26,7 +26,7 @@ a breaking point.
 Often, violent solutions to problems are grisly, ugly, and
 over fast. Using this optional rule, any character that takes
 more than his Stamina in bashing damage or any amount of
-lethal damage gains the Beaten Down Tilt: he’s
+lethal damage gains the Beaten Down Condition: he’s
 had the fight knocked out of him. He must spend a point
 of Willpower every time he wants to take a violent action
 until the end of the fight. He can still apply Defense against
@@ -45,7 +45,7 @@ side gets what they want.
 If one side’s intent involves violence for its own sake,
 the other side can’t surrender — not without being killed or
 harmed anyway. If that’s the case, the aggressor’s intended
-victims don’t get the Beaten Down Tilt, and gain no benefits
+victims don’t get the Beaten Down Condition, and gain no benefits
 from surrendering. When someone wants to kill you, the
 only thing you can do is to try to stop her, whether you run
 like hell or unload a shotgun at her.

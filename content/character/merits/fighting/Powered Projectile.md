@@ -13,4 +13,4 @@
 
 **Drawback**: This shot requires intense concentration. Your character loses her Defense any turn she uses this maneuver. 
 
-**Skewer** (••••): Your character uses her projectiles to impale parts of an opponent’s anatomy. When attacking a specified target, reduce the penalty by –2, and any inflicted Tilts require the victim to roll Stamina + Strength – damage inflicted to remove a projectile before it’s resolved.
+**Skewer** (••••): Your character uses her projectiles to impale parts of an opponent’s anatomy. When attacking a specified target, reduce the penalty by –2, and any inflicted Conditions require the victim to roll Stamina + Strength – damage inflicted to remove a projectile before it’s resolved.

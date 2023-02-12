@@ -6,7 +6,7 @@
 
 **Effect**: Your character is a patient hunter with a bow. She fires precision shots across long distances to take out targets that had no idea she was even there. This Style focuses on a character’s ability to aim by judging distance and trajectory. It uses a dice pool of Dexterity + Firearms for its attacks. 
 
-**Arcing Fire** (•): Your character knows how to tilt her aim to make a shot hit true even from afar. Double range increments, or increase her range band by one degree. 
+**Arcing Fire** (•): Your character knows how to Condition her aim to make a shot hit true even from afar. Double range increments, or increase her range band by one degree. 
 
 **Bullseye** (••): Your character places her shots to hit deep into an opponent’s weak spots. When attacking a specified target you may lower your bow’s damage rating to any amount (0 or greater) to add +1 and the 8-again quality to the attack roll. 
 

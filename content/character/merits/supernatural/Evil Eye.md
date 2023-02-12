@@ -1,7 +1,7 @@
 # Evil Eye (••)
 **Effect**: Your character can inflict paralysis on her enemies
 with her baleful stare. As an attack, roll a contested Wits +
-Occult versus the opponent’s Resolve + Composure. If successful, apply the Insensate Tilt to the victim for turns equal
+Occult versus the opponent’s Resolve + Composure. If successful, apply the Insensate Condition to the victim for turns equal
 to successes.
 
 **Drawback**: Sacrifice your Defense any turn you use Evil

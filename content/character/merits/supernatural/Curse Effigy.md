@@ -15,7 +15,7 @@ hair or blood), and takes an entire night to craft. For every
 success, you may inflict one of the following penalties on the
 subject as an instant action:
 
-• An appropriate Personal Tilt; Arm Wrack Tilt by stabbing the effigy’s arm, or the Sick Tilt by coating an
+• An appropriate Personal Condition; Arm Wrack Condition by stabbing the effigy’s arm, or the Sick Condition by coating an
 effigy in a hospital patient’s mucus. This effect lasts
 for one turn per success used.
 
