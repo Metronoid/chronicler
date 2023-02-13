@@ -1,5 +1,5 @@
-# Blinded
-**Sources**: Damage (Head)
+# **Blinded**
+**Sources**: Aggravated Damage (Head)
 
 **Description**: The character’s eyes are damaged or
 removed. This may cause the character to be unable to see.

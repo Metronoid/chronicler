@@ -1,5 +1,5 @@
 # Informed
-**Sources**: Success (Mental)
+**Sources**: Exceptional Success (Mental)
 
 **Description**: Your character has a breadth of research information
 based on the topic she investigated. 

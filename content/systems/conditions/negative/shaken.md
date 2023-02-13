@@ -1,5 +1,5 @@
-# Shaken
-**Sources**: Failure (Physical)
+# **Shaken**
+**Sources**: Dramatic Failure (Physical)
 
 Something has frightened your character extensively. Any
 time your character is taking an action where that fear might

@@ -1,5 +1,5 @@
-# Insensate
-**Sources**: Integrity
+# **Insensate**
+**Sources**: Breaking Point
 
 **Description**: The character shuts down, either due to
 extreme fear or sudden pleasure. He may huddle in a corner,

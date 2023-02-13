@@ -1,5 +1,5 @@
 # **Arm Wrack**
-**Sources**: Damage (Arm), Failure (Physical)
+**Sources**: Aggravated Damage (Arm), Dramatic Failure (Physical)
 
 **Description**: One or both of your character’s arms no longer function.
 This may occur due to nerve damage, after tissue death due

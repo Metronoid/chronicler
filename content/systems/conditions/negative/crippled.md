@@ -1,5 +1,5 @@
-# Crippled
-**Sources**: Damage (Legs)
+# **Crippled**
+**Sources**: Aggravated Damage (Legs)
 
 Your character has limited or no ability to walk. Her
 Speed trait is effectively 1. She must rely on a wheelchair or

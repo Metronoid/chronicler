@@ -1,5 +1,5 @@
 # **Bonded**
-**Sources**: Success (Animal Ken)
+**Sources**: Exceptional Success (Animal Ken)
 
 **Description**: Your character has established an extensive bond with an
 animal. 

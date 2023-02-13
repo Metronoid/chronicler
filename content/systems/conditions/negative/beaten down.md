@@ -1,5 +1,5 @@
-# Beaten Down
-**Sources**: Damage (Bashing), Failure (Physical)
+# **Beaten Down**
+**Sources**: Aggravated Damage (Bashing), Dramatic Failure (Physical)
 
 **Description**: The character has had the fight knocked
 out of him.

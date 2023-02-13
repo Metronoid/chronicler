@@ -1,5 +1,5 @@
 # Steadfast
-**Sources**: Success (Aspiration)
+**Sources**: Exceptional Success (Physical)
 
 **Description**: Your character is confident and resolved. 
 

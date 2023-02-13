@@ -1,5 +1,5 @@
-# Embarrassing Secret
-**Sources**: Failure (Social)
+# **Embarrassing Secret**
+**Sources**: Dramatic Failure (Social)
 
 Your character has a secret from his past that could
 come back to haunt him. If this secret gets out, he could be

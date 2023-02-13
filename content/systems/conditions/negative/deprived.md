@@ -1,4 +1,4 @@
-# Deprived
+# **Deprived**
 **Sources**: Addiction
 
 Your character suffers from an addiction. Because your

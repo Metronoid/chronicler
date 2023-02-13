@@ -1,5 +1,5 @@
-# Immobilized
-**Sources**: Grappled
+# **Immobilized**
+**Sources**: Inflicted
 
 **Description**: Something holds the character fast, preventing him from moving. This could be a grappling opponent, a
 straightjacket wrapped with heavy chains, or a coffin secured

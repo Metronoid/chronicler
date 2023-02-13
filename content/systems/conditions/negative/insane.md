@@ -1,5 +1,5 @@
-# Insane
-**Sources**: Integrity
+# **Insane**
+**Sources**: Breaking Point
 
 **Description**: The character suffers from a panic attack,
 sudden imbalance, or a full-on psychotic break. Her pulse

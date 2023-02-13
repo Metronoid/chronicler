@@ -1,4 +1,5 @@
-# Heavy Rain 
+# **Heavy Rain**
+**Sources**: Inflicted
 
 **Description**: Torrential rain lashes down in knives,
 bouncing high off the sidewalk. The sound of rain on
@@ -14,10 +15,6 @@ Condition will soon follow. This Condition is often accompanied by
 Heavy Winds; a character trapped out in Heavy Rains might
 come under the effects of Extreme Cold.
 
-**Causing the Condition**: Short of a supernatural power or a
-fleet of cloud-seeding aircraft, Heavy Rain is the result of
-natural weather patterns.
-
-**Ending the Condition**: The best way out of the rain is to get
+**Resolution**: The best way out of the rain is to get
 indoors. Unless it’s the start of some sodden apocalypse,
 the characters can wait for the weather to ease.

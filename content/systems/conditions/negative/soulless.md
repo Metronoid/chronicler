@@ -1,5 +1,5 @@
-# Soulless
-**Sources**: Failure (Physical)
+# **Soulless**
+**Sources**: Dramatic Failure (Physical)
 
 A creature or phenomenon has stripped the character of
 her soul. Without a soul, she can’t attempt abjuration, warding, or binding. She is also more susceptible to possession any dice pools to resist being taken over or possessed by

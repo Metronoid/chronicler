@@ -1,5 +1,5 @@
-# Leg Wrack
-**Sources**: Damage (Legs)
+# **Leg Wrack**
+**Sources**: Aggravated Damage (Legs)
 
 **Description**: Your leg feels like it’s going to snap clean off
 whenever you move; when you stop moving you feel a burning

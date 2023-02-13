@@ -1,4 +1,5 @@
-# Heavy Winds 
+# **Heavy Winds **
+**Sources**: Inflicted
 
 **Description**: Howling winds buffet at the characters,
 whipping street furniture into the air and tearing the roofs
@@ -16,11 +17,7 @@ Physical dice rolls. Characters outside in the maelstrom
 also take damage from flying debris, taking bashing damage each turn equal to the wind’s rating. Characters can
 make a reflexive Dexterity + Athletics roll to avoid damage.
 
-**Causing the Condition**: Heavy winds are a fact of life, from
-siroccos in the desert, to tornados in the Midwest, to wind
-shears everywhere.
-
-**Ending the Condition**: Getting out of the wind is the best way
+**Resolution**: Getting out of the wind is the best way
 to end this Condition. Sometimes that’s as easy as sheltering in
 an automobile, as long as nobody tries to drive. Buildings
 provide more permanent shelter.

@@ -1,5 +1,5 @@
-# Sick
-**Sources**: Natural
+# **Sick**
+**Sources**: Inflicted
 
 **Description**: Your stomach churns. You retch and heave
 but only succeed in bringing up bile. Sweat beads on your

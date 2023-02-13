@@ -1,5 +1,5 @@
-# Knocked Down
-**Sources**: Damage (Legs)
+# **Knocked Down**
+**Sources**: Aggravated Damage (Legs)
 
 **Description**: Something knocks the character to the
 floor, either toppling her with a powerful blow to the chest

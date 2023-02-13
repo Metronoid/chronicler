@@ -1,4 +1,4 @@
-# Drugged
+# **Drugged**
 **Sources**: Addiction
 
 **Description**: The character’s mind is addled by mind altering substances, such as alcohol or drugs.

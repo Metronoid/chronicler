@@ -1,5 +1,5 @@
-# Obsession
-**Sources**: Failure (Mental), Failure (Aspiration)
+# **Obsession**
+**Sources**: Dramatic Failure (Mental)
 
 Something’s on your character’s mind, and she just can’t
 shake it. If she’s abiding by that obsession, exploring that

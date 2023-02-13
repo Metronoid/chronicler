@@ -1,5 +1,5 @@
-# Madness
-**Sources**: Supernatural
+# **Madness**
+**Sources**: Breaking Point
 
 Your character saw or did something that jarred her
 loose from reality. This isn’t a mental illness born of brain

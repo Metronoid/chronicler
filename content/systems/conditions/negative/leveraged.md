@@ -1,5 +1,5 @@
-# Leveraged
-**Sources**: Failure (Social)
+# **Leveraged**
+**Sources**: Dramatic Failure (Social)
 
 Your character has been blackmailed, tricked, convinced,
 or otherwise leveraged into doing what another person

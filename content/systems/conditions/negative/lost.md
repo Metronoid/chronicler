@@ -1,5 +1,5 @@
-# Lost
-**Sources**: Failure (Mental)
+# **Lost**
+**Sources**: Dramatic Failure (Mental)
 
 Your character has no idea where she is, or how to reach
 her target. She cannot make any headway toward her goal

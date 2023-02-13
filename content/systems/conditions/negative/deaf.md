@@ -1,5 +1,5 @@
-# Deaf
-**Sources**: Damage (Head)
+# **Deaf**
+**Sources**: Aggravated Damage (Head)
 
 **Description**: The character can’t hear. Maybe he’s suffering intense tinnitus, can only hear the roaring of blood in
 his ears, or has been deafened by a gunshot.

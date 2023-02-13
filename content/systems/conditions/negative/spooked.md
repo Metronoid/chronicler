@@ -1,5 +1,5 @@
-# Spooked
-**Sources**: Supernatural
+# **Spooked**
+**Sources**: Breaking Point
 
 Your character has seen something supernatural not
 overt enough to terrify her, but unmistakably otherworldly.

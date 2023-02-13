@@ -1,4 +1,5 @@
-# Extreme Heat
+# **Extreme Heat**
+**Sources**: Inflicted
 
 **Description**: The character might be stumbling through
 the desert with the sun beating down on him, or running
@@ -17,14 +18,7 @@ hour that a character is continuously affected by this Condition, he
 accrues a -1 penalty to all rolls. When that penalty hits -5, he
 instead suffers a point of lethal damage per hour.
 
-**Causing the Condition**: This Condition is usually caused by environmental factors — being out at noon in the desert, or spending too long in a sauna or forge. Even a fever is the result
-of an infection, rather than something that an opponent
-can force on a character. It’s possible to create this Condition on
-a given character: securing someone to a chair right next to
-an old, inefficient boiler, or stranding them in the desert far
-from any shade.
-
-**Ending the Condition**: The key to ending this Condition is simple: get
+**Resolution**: The key to ending this Condition is simple: get
 out of the heat. In a desert or similar environment, finding
 shade is paramount. Elsewhere, the character needs to escape
 whatever is causing the abnormal temperatures.

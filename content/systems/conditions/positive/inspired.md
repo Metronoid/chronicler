@@ -1,5 +1,5 @@
 # Inspired
-**Sources**: Success
+**Sources**: Exceptional Success
 
 **Description**: Your character is deeply inspired. 
 

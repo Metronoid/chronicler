@@ -1,5 +1,5 @@
 # **Connected**
-**Sources**: Success (Social)
+**Sources**: Exceptional Success (Social)
 
 **Description**: Your character has made inroads with a specified group.
 

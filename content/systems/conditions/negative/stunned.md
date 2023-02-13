@@ -1,5 +1,5 @@
-# Stunned
-**Sources**: Damage (Head), Failure (Mental), Supernatural
+# **Stunned**
+**Sources**: Aggravated Damage (Head), Aggravated Failure (Mental), Breaking Point
 
 **Description**: Your character is dazed and unable to think
 straight. Maybe her vision blurs. If she’s stunned as a result

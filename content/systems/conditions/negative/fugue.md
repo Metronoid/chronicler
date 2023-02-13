@@ -1,4 +1,4 @@
-# Fugue
+# **Fugue**
 **Sources**: Breaking Point
 
 Something terrible happened, and rather than deal with

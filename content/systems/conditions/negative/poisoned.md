@@ -1,5 +1,5 @@
-# Poisoned
-**Sources**: Natural
+# **Poisoned**
+**Sources**: Inflicted
 
 **Description**: You’ve got poison inside you. It’s tearing
 you apart from the inside, burning like acid in your gut and
