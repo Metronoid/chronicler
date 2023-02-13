@@ -4,7 +4,7 @@ import React from 'react';
 
 export default async function Layout({ children }: { children: React.ReactNode }) {
   const categories = ['down-and-dirty-combat', 'willpower', 'intent', 'initiative', 'attack', 'defense', 'objects', 'unarmed-combat', 
-  'ranged-combat', 'general-combat-factors', 'weapons-and-armor', 'injury-and-healing'];
+  'ranged-combat', 'general-combat-factors', 'weapons-and-armor', 'injury-and-healing', 'sources-of-harm'];
   return (
     <div className="space-y-9">
       <TabGroup

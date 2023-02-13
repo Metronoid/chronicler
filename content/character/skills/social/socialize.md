@@ -1,4 +1,4 @@
-# Socialize
+# **Socialize**
 
 The Socialize Skill is the art of small talk, polite gestures,
 and fitting in. It represents your ability to interact with people

@@ -1,4 +1,4 @@
-# Empathy
+# **Empathy**
 
 Empathy is a character’s ability to read and understand
 others’ feelings and motivations. It can represent careful

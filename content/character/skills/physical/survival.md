@@ -1,4 +1,4 @@
-# Survival
+# **Survival**
 
 Survival represents a character’s experience and ability
 to “live off the land.” He knows how to find shelter, gather

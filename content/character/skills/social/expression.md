@@ -1,4 +1,4 @@
-# Expression
+# **Expression**
 Expression is the character’s ability to communicate his
 thoughts and emotions. It covers writing and spoken communication, art like painting or sculpture, and performances
 like acting, music, and dance. A character can use this to

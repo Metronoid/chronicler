@@ -1,4 +1,4 @@
-# Weaponry
+# **Weaponry**
 
 Weaponry is the ability to fight with
 hand-to-hand weapons. A character with

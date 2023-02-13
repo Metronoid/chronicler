@@ -1,4 +1,4 @@
-# Stealth
+# **Stealth**
 Stealth is a character’s ability to stay hidden, unseen, and
 unheard. It covers sneaking around in the shadows, blending
 into a crowd, using a disguise to appear as just another bystander in the background, or taking advantage of an appropriately

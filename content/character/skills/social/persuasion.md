@@ -1,4 +1,4 @@
-# Persuasion
+# **Persuasion**
 Persuasion is about using influence, charm, and careful
 arguments to change minds and influence behavior. It can
 involve logic and reason, glib fast talking, or appealing to

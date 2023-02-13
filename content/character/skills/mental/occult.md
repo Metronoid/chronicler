@@ -1,4 +1,4 @@
-# Occult
+# **Occult**
 The Occult Skill is a character’s knowledge of myth,
 folktales, and urban legends about the strange things that
 exist in the dark corners of the world. Occult can help a

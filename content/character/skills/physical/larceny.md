@@ -1,4 +1,4 @@
-# Larceny
+# **Larceny**
 Larceny covers the generally-illegal skills of breaking and
 entering, lock picking, pickpocketing, safecracking, and
 similar activities. There usually aren’t schools for this sort of

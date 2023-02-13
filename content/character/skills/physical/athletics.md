@@ -1,4 +1,4 @@
-# Athletics
+# **Athletics**
 Athletics broadly covers a number of different areas of
 physical ability. It represents training in specific sports, from
 kayaking or parkour to professional sports like basketball or

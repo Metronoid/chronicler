@@ -1,4 +1,4 @@
-# Medicine
+# **Medicine**
 Medicine is a character’s knowledge of the human
 body and the medical techniques used to keep it healthy. It
 represents a practical and applicable knowledge of biology,

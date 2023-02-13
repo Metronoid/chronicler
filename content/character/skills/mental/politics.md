@@ -1,4 +1,4 @@
-# Politics
+# **Politics**
 
 Politics represents a character’s knowledge of political
 bodies, figures, and issues. It helps a character to navigate

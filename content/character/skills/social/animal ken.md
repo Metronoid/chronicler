@@ -1,4 +1,4 @@
-# Animal Ken
+# **Animal Ken**
 
 Animal Ken represents a character’s understanding of
 animal behavior. A character can use this Skill to train animals, calm frightened or injured animals, or cow violent and

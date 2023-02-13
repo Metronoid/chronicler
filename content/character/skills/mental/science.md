@@ -1,4 +1,4 @@
-# Science
+# **Science**
 Science is a character’s understanding of the natural
 and physical sciences. It includes subjects like biology,
 physics, chemistry, geology, and meteorology. Science

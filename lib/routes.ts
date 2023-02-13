@@ -29,9 +29,9 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Learn how to create a character',
       },
       {
-        name: 'Skills and Attributes',
+        name: 'Attributes and Skills',
         slug: 'character/skills/mental',
-        description: 'Learn what to use your skills and attributes for',
+        description: 'Learn what to use your attributes and skills for',
       },
       {
         name: 'Merits',
@@ -64,11 +64,6 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Tools for resolving combat',
       },
       {
-        name: 'Sources of Harm',
-        slug: 'systems/sources-of-harm',
-        description: 'Find out the different sources of damage',
-      },
-      {
         name: 'Equipment',
         slug: 'systems/equipment',
         description: 'Find out how Equipment works and which are available',
@@ -84,9 +79,9 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Tools for finding clues',
       },
       {
-        name: 'Chases',
-        slug: 'systems/chases',
-        description: 'Tools for resolving chases',
+        name: 'Social Maneuvering',
+        slug: 'systems/social',
+        description: 'Tools for maneuvering the social combat',
       },
       {
         name: 'Vehicles',
@@ -94,79 +89,10 @@ export const routes: { name: string; items: Item[] }[] = [
         description: 'Find out how Vehicles work and which are available',
       },
       {
-        name: 'Social Maneuvering',
-        slug: 'systems/social',
-        description: 'Tools for maneuvering the social combat',
+        name: 'Chases',
+        slug: 'systems/chases',
+        description: 'Tools for resolving chases',
       },
     ],
   },
-  // {
-  //   name: 'Rolling Dice',
-  //   items: [
-  //     {
-  //       name: 'loading.js',
-  //       slug: 'loading',
-  //       description:
-  //         'Create meaningful loading UI for specific parts of an app',
-  //     },
-  //     {
-  //       name: 'error.js',
-  //       slug: 'error-handling',
-  //       description: 'Create error UI for specific parts of an app',
-  //     },
-  //     {
-  //       name: 'head.js',
-  //       slug: 'head',
-  //       description: 'Configure the <head> tag of a route segment',
-  //     },
-  //   ],
-  // },
-  // {
-  //   name: 'Data Fetching',
-  //   items: [
-  //     {
-  //       name: 'Static-Site Generation',
-  //       slug: 'ssg',
-  //       description: 'Generate static pages',
-  //     },
-  //     {
-  //       name: 'Server-Side Rendering',
-  //       slug: 'ssr',
-  //       description: 'Server-render pages',
-  //     },
-  //     {
-  //       name: 'Incremental Static Regeneration',
-  //       slug: 'isr',
-  //       description: 'Get the best of both worlds between static & dynamic',
-  //     },
-  //   ],
-  // },
-  // {
-  //   name: 'Components',
-  //   items: [
-  //     // TODO: Re-add this page once hooks have been updated.
-  //     // {
-  //     //   name: 'Hooks',
-  //     //   slug: 'hooks',
-  //     //   description:
-  //     //     'Preview the hooks available for Client and Server Components',
-  //     // },
-  //     {
-  //       name: 'Client Context',
-  //       slug: 'context',
-  //       description:
-  //         'Pass context between Client Components that cross Server/Client Component boundary',
-  //     },
-  //   ],
-  // },
-  // {
-  //   name: 'Styling',
-  //   items: [
-  //     {
-  //       name: 'CSS and CSS-in-JS',
-  //       slug: 'styling',
-  //       description: 'Preview the supported styling solutions',
-  //     },
-  //   ],
-  // },
 ];

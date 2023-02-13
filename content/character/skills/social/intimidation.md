@@ -1,4 +1,4 @@
-# Intimidation
+# **Intimidation**
 
 Intimidation is the art of using fear to convince others to
 do what you want. A character can use this Skill for threats,
